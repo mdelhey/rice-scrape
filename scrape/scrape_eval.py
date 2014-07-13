@@ -5,8 +5,8 @@ import re
 import numpy as np
 import pandas as pd
 
-UserID = 'S01149891'
-PIN = 'a12051992'
+UserID = 
+PIN    =
 
 # Create pandas df
 data = pd.DataFrame(None, columns=['crn', 'term', 'course', 'xlist', 'enrolled', 'instructor',
