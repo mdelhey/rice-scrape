@@ -1,11 +1,368 @@
-term,crn,course,title,faculty,meeting,credits,enrolled
-Fall 2014,10959,AFSC 101 002,FOUNDATION OF THE USAF I,Faculty:,Meeting: 02:00PM - 02:50PM W TBA TBA; 04:00PM - 05:59PM W TBA TBA,2,Enrolled: 1 (Max 19)
-Fall 2014,10960,AFSC 101 003,FOUNDATION OF THE USAF I,Faculty:,Meeting: 08:00AM - 08:50AM M TBA TBA; 04:00PM - 05:59PM W TBA TBA,2,Enrolled: 0 (Max 19)
-Fall 2014,10961,AFSC 201 001,EVOLUTION OF AIR POWER I,Faculty:,Meeting: 03:00PM - 03:50PM W TBA TBA; 04:00PM - 05:59PM W TBA TBA,2,Enrolled: 0 (Max 19)
-Fall 2014,10962,AFSC 201 002,EVOLUTION OF AIR POWER I,Faculty:,Meeting: 09:00AM - 09:50AM M TBA TBA; 04:00PM - 05:59PM W TBA TBA,2,Enrolled: 0 (Max 19)
-Fall 2014,10963,AFSC 301 001,AIR FORCE LEADERSHIP STUDY I,Faculty:,Meeting: 11:30AM - 02:29PM T TBA TBA; 04:00PM - 05:59PM W TBA TBA,3,Enrolled: 1 (Max 19)
-Fall 2014,10964,AFSC 401 001,NATIONAL SECURITY AFFAIRS I,Faculty:,Meeting: 10:00AM - 12:59PM W TBA TBA; 04:00PM - 05:59PM W TBA TBA,3,Enrolled: 0 (Max 19)
-Fall 2014,13072,AMCI 400 001,AMC HONOR THESIS,"Faculty: Maas, Michael R.",Meeting: TBA TBA,3,Enrolled: 1 (Permission Required)
-Fall 2014,10231,ANTH 200 001,INTRO TO STUDY OF LANGUAGE,"Faculty: Taylor, Christopher M.",Meeting: 10:00AM - 10:50AM MWF TBA TBA,3,Enrolled: 26 (Max 75)
-Fall 2014,12666,ANTH 200 003,INTRO TO STUDY OF LANGUAGE,"Faculty: Oko, Christina W.",Meeting: 10:50AM - 12:05PM TR TBA TBA,3,Enrolled: 15 (Max 50)
-Fall 2014,12699,ANTH 201 001,INTRO TO SOCIAL/CULTURAL ANTH,"Faculty: Howe, Alyssa C.",Meeting: 10:50AM - 12:05PM TR TBA TBA,3,Enrolled: 80 (Max 100)
+courseid,yearterm,year,term,crn,course,title,faculty,meeting,credits,enrolled,raw
+2013 Spring_10696,2013 Spring,2013,Spring,10696,PHIL 101 001,CONTEMPORARY MORAL ISSUES,"Faculty: Bradford, Gwendolyn M.",Meeting: 11:00AM - 11:50AM MWF TBA TBA,3,Enrolled: 15 (Max 15),"PHIL 101Philosophy Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 15 (Max 15)
+Waitlisted: 10 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 13, 2014 15:33
+CONTEMPORARY MORAL ISSUES
+Examination of moral issues surrounding such topics as abortion, euthanasia, war, capital punishment, justice, and equality.
+CRN	Course	Title		Credits
+10696	PHIL 101 001	CONTEMPORARY MORAL ISSUES	3
+Faculty: Bradford, Gwendolyn M.	
+Meeting: 11:00AM - 11:50AM MWF TBA TBA	
+"
+2013 Spring_13100,2013 Spring,2013,Spring,13100,PHIL 103 001,PHIL ASPECT COGNITIVE SCIENCE,Faculty:,Meeting: 10:00AM - 10:50AM MWF TBA TBA,3,Enrolled: 7 (Max 40),"PHIL 103Philosophy Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 7 (Max 40)
+Enrollment data as of JUL 13, 2014 15:34
+PHILOSOPHICAL ASPECTS OF COGNITIVE SCIENCE
+An examination of current research in cognitive science and its philosophical implications. Topics include whether the mind is a computational system, how the mind is organized, what relations minds bear to brains.
+CRN	Course	Title		Credits
+13100	PHIL 103 001	PHIL ASPECT COGNITIVE SCIENCE	3
+Faculty:	
+Meeting: 10:00AM - 10:50AM MWF TBA TBA	
+"
+2013 Spring_10697,2013 Spring,2013,Spring,10697,PHIL 201 001,HISTORY OF PHILOSOPHY I,"Faculty: Siewert, Charles",Meeting: 10:50AM - 12:05PM TR TBA TBA,3,Enrolled: 34 (Max 40),"PHIL 201Philosophy Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 34 (Max 40)
+Cross-listed with CLAS 201(10706), MDEM 201(12652)
+Total Cross-list Enrolled: 37 (Max 40)
+Waitlisted: 0 (Max 297)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 13, 2014 15:34
+HISTORY OF PHILOSOPHY I
+Survey of the major philosophers and philosophical systems of ancient Greece, from Parmenides to the Stoics.
+CRN	Course	Title		Credits
+10697	PHIL 201 001	HISTORY OF PHILOSOPHY I	3
+Faculty: Siewert, Charles	
+Meeting: 10:50AM - 12:05PM TR TBA TBA	
+"
+2013 Spring_12574,2013 Spring,2013,Spring,12574,PHIL 301 001,SOCRATES,"Faculty: Morrison, Donald R.",Meeting: 10:50AM - 12:05PM TR TBA TBA,3,Enrolled: 6 (Max 23),"PHIL 301Philosophy Courses
+Distribution Group I
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 6 (Max 23)
+Cross-listed with CLAS 301(12575), MDEM 301(12667)
+Total Cross-list Enrolled: 10 (Max 23)
+Waitlisted: 0 (Max 297)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 13, 2014 15:34
+Restrictions:
+May not be enrolled in one of the following Level(s):
+Graduate
+SOCRATES
+Topics in the history of philosophy from the 4th century B.C. through the 14th century. Spring 2014 will be devoted to Socrates. Graduate students require permission of instructor.
+CRN	Course	Title		Credits
+12574	PHIL 301 001	SOCRATES	3
+Faculty: Morrison, Donald R.	
+Meeting: 10:50AM - 12:05PM TR TBA TBA	
+"
+2013 Spring_12577,2013 Spring,2013,Spring,12577,PHIL 304 001,METAPHYSICS,"Faculty: Grandy, Richard E.",Meeting: 01:00PM - 02:15PM TR TBA TBA,3,Enrolled: 12 (Max 23),"PHIL 304Philosophy Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 12 (Max 23)
+Waitlisted: 0 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 13, 2014 15:34
+METAPHYSICS
+Course URL: http://www.owlnet.rice.edu/~phil304
+Recommended prerequisite(s): A previous course in philosophy.
+Examination of metaphysical theories in the works of historical and contemporary thinkers. Topics may include: free will, the identity of persons over time, causation, possibility and necessity, design and chance, the nature of existence, the nature of time.
+CRN	Course	Title		Credits
+12577	PHIL 304 001	METAPHYSICS	3
+Faculty: Grandy, Richard E.	
+Meeting: 01:00PM - 02:15PM TR TBA TBA	
+"
+2013 Spring_10040,2013 Spring,2013,Spring,10040,PHIL 305 001,MATHEMATICAL LOGIC,"Faculty: Grandy, Richard E.",Meeting: 10:00AM - 10:50AM MWF TBA TBA,3,Enrolled: 27 (Max 35),"PHIL 305Philosophy Courses
+Distribution Group III
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 27 (Max 35)
+Cross-listed with PHIL 505(10041)
+Total Cross-list Enrolled: 27 (Max 40)
+Waitlisted: 0 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 13, 2014 15:34
+Restrictions:
+May not be enrolled in one of the following Level(s):
+Graduate
+MATHEMATICAL LOGIC
+Course URL: http://www.owlnet.rice.edu/~phil305
+We study formal languages and methods for assessing correctness of arguments, including a brief look at modal and many-valued logics. We also consider their relations to natural languages and reflect on the techniques required to prove theorems about languages. A previous logic course is helpful, though the course is self-contained.
+CRN	Course	Title		Credits
+10040	PHIL 305 001	MATHEMATICAL LOGIC	3
+Faculty: Grandy, Richard E.	
+Meeting: 10:00AM - 10:50AM MWF TBA TBA	
+"
+2013 Spring_11476,2013 Spring,2013,Spring,11476,PHIL 306 002,ETHICS,"Faculty: Sher, George",Meeting: 03:00PM - 03:50PM MWF TBA TBA,3,Enrolled: 22 (Max 22),"PHIL 306Philosophy Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 22 (Max 22)
+Waitlisted: 4 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 13, 2014 15:34
+ETHICS
+This course deals with fundamental questions of value and morality-questions such as: What sort of life is best? What kind of person is it best to be? What does morality require of us? It also deals with important second-order questions about these fundamental questions- for example: Can morality be justified? How can we know what's right or good? Is there moral truth? What is the relation between morality and self-interest? Readings are drawn from both classical and contemporary sources.
+CRN	Course	Title		Credits
+11476	PHIL 306 002	ETHICS	3
+Faculty: Sher, George	
+Meeting: 03:00PM - 03:50PM MWF TBA TBA	
+"
+2013 Spring_11964,2013 Spring,2013,Spring,11964,PHIL 312 002,PHILOSOPHY OF MIND,"Faculty: Siewert, Charles",Meeting: 01:00PM - 02:15PM TR TBA TBA,3,Enrolled: 23 (Max 23),"PHIL 312Philosophy Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 23 (Max 23)
+Waitlisted: 26 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 13, 2014 15:34
+PHILOSOPHY OF MIND
+Recommended- Prerequisite(s): One course in philosophy or permission of the instructor.
+Inquiry into the nature of mind. Questions include: how should we conceive of the relationship of mind and body? What is consciousness, and how might it be explained? How can mental states be causes? Can one’s mind and its contents die outside one’s brain?
+CRN	Course	Title		Credits
+11964	PHIL 312 002	PHILOSOPHY OF MIND	3
+Faculty: Siewert, Charles	
+Meeting: 01:00PM - 02:15PM TR TBA TBA	
+"
+2013 Spring_11808,2013 Spring,2013,Spring,11808,PHIL 316 001,PHILOSOPHY OF LAW,"Faculty: Brody, Baruch A.",Meeting: 02:30PM - 03:45PM TR TBA TBA,3,Enrolled: 23 (Max 23),"PHIL 316Philosophy Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 23 (Max 23)
+Waitlisted: 9 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 13, 2014 15:34
+PHILOSOPHY OF LAW
+Examination of fundamental philosophical problems in criminal law, property law, contract law and the law of torts.
+CRN	Course	Title		Credits
+11808	PHIL 316 001	PHILOSOPHY OF LAW	3
+Faculty: Brody, Baruch A.	
+Meeting: 02:30PM - 03:45PM TR TBA TBA	
+"
+2013 Spring_12582,2013 Spring,2013,Spring,12582,PHIL 326 001,HISTORY OF ETHICS,"Faculty: Brody, Baruch A.",Meeting: 02:00PM - 04:59PM W TBA TBA,3,Enrolled: 6 (Max 19),"PHIL 326Philosophy Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 6 (Max 19)
+Cross-listed with PHIL 526(12583)
+Total Cross-list Enrolled: 10 (Max 29)
+Enrollment data as of JUL 13, 2014 16:14
+HISTORY OF ETHICS
+Recommended Prerequisite(s): One previous course in Philosophy.
+An introduction to the major issues of ethical theory through the reading and discussion of such classical figures as Plato, Aristotle, the Stoics, the Epicureans, St. Augustine, St. Thomas, Maimonides, Bishop Butler, David Hume, Adam Smith, J.S. Mill, and I. Kant.
+CRN	Course	Title		Credits
+12582	PHIL 326 001	HISTORY OF ETHICS	3
+Faculty: Brody, Baruch A.	
+Meeting: 02:00PM - 04:59PM W TBA TBA	
+"
+2013 Spring_12579,2013 Spring,2013,Spring,12579,PHIL 334 001,ACHIEVEMENT & MEANING OF LIFE,"Faculty: Bradford, Gwendolyn M.",Meeting: 03:00PM - 03:50PM MWF TBA TBA,3,Enrolled: 23 (Max 23),"PHIL 334Philosophy Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 23 (Max 23)
+Waitlisted: 4 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 13, 2014 15:14
+ACHIEVEMENT AND THE MEANING OF LIFE
+This course looks at the value of achievements in a rigorous philosophical manner. We examine approaches to the meaning of life and the value of achievement in the works of great philosophers, current philosophy, and draw from literature, history, current events, and psychology.
+CRN	Course	Title		Credits
+12579	PHIL 334 001	ACHIEVEMENT & MEANING OF LIFE	3
+Faculty: Bradford, Gwendolyn M.	
+Meeting: 03:00PM - 03:50PM MWF TBA TBA	
+"
+2013 Spring_11809,2013 Spring,2013,Spring,11809,PHIL 354 001,PHILOSOPHY OF PERCEPTION,Faculty:,Meeting: 01:00PM - 01:50PM MWF TBA TBA,3,Enrolled: 14 (Max 23),"PHIL 354Philosophy Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 14 (Max 23)
+Waitlisted: 0 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 13, 2014 15:14
+PHILOSOPHY OF PERCEPTION
+Recommended Prerequisite(s): PHIL 103 and PHIL 202.
+Perception is our most immediate form of acquaintance with the world. It is a rich source of experience and of information. Perception guides action and it grounds concepts and beliefs. Yet, the world we encounter perceptually can seem to differ dramatically from the world as described by science. This course aims at an understanding of the nature of perception and of perceptual experience.
+CRN	Course	Title		Credits
+11809	PHIL 354 001	PHILOSOPHY OF PERCEPTION	3
+Faculty:	
+Meeting: 01:00PM - 01:50PM MWF TBA TBA	
+"
+2013 Spring_11501,2013 Spring,2013,Spring,11501,PHIL 401 001,INDEPENDENT READING I,"Faculty: Sher, George",Meeting: TBA TBA,3,Enrolled: 0 (Permission Required),"PHIL 401Philosophy Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Permission Required)
+Enrollment data as of JUL 13, 2014 15:14
+Instructor permission required
+INDEPENDENT READING I
+Course for undergraduate students to pursue independent research projects under direction of a philosophy department faculty member.
+CRN	Course	Title		Credits
+11501	PHIL 401 001	INDEPENDENT READING I	3
+Faculty: Sher, George	
+Meeting: TBA TBA	
+"
+2013 Spring_10485,2013 Spring,2013,Spring,10485,PHIL 411 001,SENIOR THESIS,"Faculty: Crowell, Steven G.",Meeting: TBA TBA,3,Enrolled: 0 (Permission Required),"PHIL 411Philosophy Courses
+Session: Full Term
+Grade Mode: Satisfactory/Unsatisfactory
+Enrolled: 0 (Permission Required)
+Enrollment data as of JUL 13, 2014 15:14
+Instructor permission required
+SENIOR THESIS
+Independent research course for undergraduate philosophy majors who wish to write a senior thesis and become eligible for honors in the major. Students may enroll in PHIL 411 only with consent of a faculty advisor and the department, and only if they intend to enroll in PHIL 412 as well. Senior Thesis is a year-long research course.
+CRN	Course	Title		Credits
+10485	PHIL 411 001	SENIOR THESIS	3
+Faculty: Crowell, Steven G.	
+Meeting: TBA TBA	
+"
+2013 Spring_12584,2013 Spring,2013,Spring,12584,PHIL 502 001,SEMINAR IN MODERN PHILOSOPHY,"Faculty: Kulstad, Mark A.",Meeting: 01:00PM - 03:59PM F TBA TBA,3,Enrolled: 5 (Max 10),"PHIL 502Philosophy Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 5 (Max 10)
+Enrollment data as of JUL 13, 2014 15:14
+Restrictions:
+Must be enrolled in one of the following Level(s):
+Graduate
+Must be enrolled in one of the following Major(s):
+Philosophy
+Must be enrolled in one of the following Class(es):
+Graduate
+SEMINAR IN MODERN PHILOSOPHY
+Graduate level examination of topics and figures of 17th and 18th century history of philosophy. Topics vary from year to year. Repeatable for credit with the consent of the instructor.
+CRN	Course	Title		Credits
+12584	PHIL 502 001	SEMINAR IN MODERN PHILOSOPHY	3
+Faculty: Kulstad, Mark A.	
+Meeting: 01:00PM - 03:59PM F TBA TBA	
+"
+2013 Spring_13151,2013 Spring,2013,Spring,13151,PHIL 503 001,SEMINAR IN EPISTEMOLOGY,"Faculty: Harmon, Ian T.",Meeting: 02:30PM - 05:29PM R TBA TBA,3,Enrolled: 1 (Max 19),"PHIL 503Philosophy Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 1 (Max 19)
+Enrollment data as of JUL 13, 2014 15:14
+SEMINAR IN EPISTEMOLOGY
+CRN	Course	Title		Credits
+13151	PHIL 503 001	SEMINAR IN EPISTEMOLOGY	3
+Faculty: Harmon, Ian T.	
+Meeting: 02:30PM - 05:29PM R TBA TBA	
+"
+2013 Spring_10041,2013 Spring,2013,Spring,10041,PHIL 505 001,MATHEMATICAL LOGIC,"Faculty: Grandy, Richard E.",Meeting: 10:00AM - 10:50AM MWF TBA TBA,3,Enrolled: 0 (Max 5),"PHIL 505Philosophy Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 5)
+Cross-listed with PHIL 305(10040)
+Total Cross-list Enrolled: 27 (Max 40)
+Waitlisted: 0 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 13, 2014 15:14
+Restrictions:
+Must be enrolled in one of the following Level(s):
+Graduate
+Must be enrolled in one of the following Major(s):
+Philosophy
+MATHEMATICAL LOGIC
+Course URL: http://www.owlnet.rice.edu/~phil305
+An version of PHIL 305 for philosophy graduate students which includes further reading of material on philosophy of logic.
+CRN	Course	Title		Credits
+10041	PHIL 505 001	MATHEMATICAL LOGIC	3
+Faculty: Grandy, Richard E.	
+Meeting: 10:00AM - 10:50AM MWF TBA TBA	
+"
+2013 Spring_12580,2013 Spring,2013,Spring,12580,PHIL 508 001,SEM CONTINENTAL PHILOSOPHY,"Faculty: Crowell, Steven G.",Meeting: 02:00PM - 04:59PM M TBA TBA,3,Enrolled: 5 (Max 10),"PHIL 508Philosophy Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 5 (Max 10)
+Enrollment data as of JUL 13, 2014 15:14
+SEMINAR IN CONTINENTAL PHILOSOPHY
+The study of selected topics and figures in 20th and 21st century European philosophy. Repeatable for credit with consent of the instructor.
+CRN	Course	Title		Credits
+12580	PHIL 508 001	SEM CONTINENTAL PHILOSOPHY	3
+Faculty: Crowell, Steven G.	
+Meeting: 02:00PM - 04:59PM M TBA TBA	
+"
+2013 Spring_12581,2013 Spring,2013,Spring,12581,PHIL 524 001,SEMINAR IN HEGEL,"Faculty: Engelhardt, H T.",Meeting: 02:30PM - 05:29PM T TBA TBA,3,Enrolled: 8 (Max 10),"PHIL 524Philosophy Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 8 (Max 10)
+Enrollment data as of JUL 13, 2014 15:14
+SEMINAR IN HEGEL
+CRN	Course	Title		Credits
+12581	PHIL 524 001	SEMINAR IN HEGEL	3
+Faculty: Engelhardt, H T.	
+Meeting: 02:30PM - 05:29PM T TBA TBA	
+"
+2013 Spring_12583,2013 Spring,2013,Spring,12583,PHIL 526 001,HISTORY OF ETHICS,"Faculty: Brody, Baruch A.",Meeting: 02:00PM - 04:59PM W TBA TBA,3,Enrolled: 4 (Max 10),"PHIL 526Philosophy Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 4 (Max 10)
+Cross-listed with PHIL 326(12582)
+Total Cross-list Enrolled: 10 (Max 29)
+Enrollment data as of JUL 13, 2014 15:14
+HISTORY OF ETHICS
+Graduate version of PHIL 326. Special graduate student requirements include additional readings and the writing of a term research paper.
+CRN	Course	Title		Credits
+12583	PHIL 526 001	HISTORY OF ETHICS	3
+Faculty: Brody, Baruch A.	
+Meeting: 02:00PM - 04:59PM W TBA TBA	
+"
+2013 Spring_11102,2013 Spring,2013,Spring,11102,PHIL 598 001,ADVANCED INDEPENDENT READING,"Faculty: Sher, George",Meeting: TBA TBA,1 TO 6,Enrolled: 1 (Max 19),"PHIL 598Philosophy Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 1 (Max 19)
+Enrollment data as of JUL 13, 2014 15:14
+Restrictions:
+Must be enrolled in one of the following Level(s):
+Graduate
+Must be enrolled in one of the following Major(s):
+Philosophy
+ADVANCED INDEPENDENT READING
+Directed reading and research.
+CRN	Course	Title		Credits
+11102	PHIL 598 001	ADVANCED INDEPENDENT READING	1 TO 6
+Faculty: Sher, George	
+Meeting: TBA TBA	
+"
+2013 Spring_10042,2013 Spring,2013,Spring,10042,PHIL 701 001,RESEARCH QUALIFYING & THESIS,"Faculty: Crowell, Steven G.",Meeting: TBA TBA,1 TO 15,Enrolled: 6 (Max 19),"PHIL 701Philosophy Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Satisfactory/Unsatisfactory
+Enrolled: 6 (Max 19)
+Enrollment data as of JUL 13, 2014 15:14
+Restrictions:
+Must be enrolled in one of the following Level(s):
+Graduate
+Must be enrolled in one of the following Major(s):
+Philosophy
+READING AND RESEARCH FOR QUALIFYING EXAMINATION AND THESIS PROPOSAL
+Reading course in preparation for the comprehensive examination and thesis proposal defense.
+CRN	Course	Title		Credits
+10042	PHIL 701 001	RESEARCH QUALIFYING & THESIS	1 TO 15
+Faculty: Crowell, Steven G.	
+Meeting: TBA TBA	
+"
+2013 Spring_10043,2013 Spring,2013,Spring,10043,PHIL 800 001,RESEARCH AND THESIS,"Faculty: Crowell, Steven G.",Meeting: TBA TBA,1 TO 15,Enrolled: 10 (Max 50),"PHIL 800Philosophy Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Satisfactory/Unsatisfactory
+Enrolled: 10 (Max 50)
+Enrollment data as of JUL 13, 2014 15:14
+Restrictions:
+Must be enrolled in one of the following Level(s):
+Graduate
+Must be enrolled in one of the following Major(s):
+Philosophy
+RESEARCH AND THESIS
+CRN	Course	Title		Credits
+10043	PHIL 800 001	RESEARCH AND THESIS	1 TO 15
+Faculty: Crowell, Steven G.	
+Meeting: TBA TBA	
+"
