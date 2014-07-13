@@ -1,0 +1,373 @@
+                               Rice University Office of the Registrar (OTR) / Buildings  and Classrooms
+
+Code  Building                  Map  Room         Room Type     Cap.  Scheduling Resp     Hours of Responsibility
+
+                                Ref
+
+ABL   Anderson Biological       3    123          Lecture Hall  53    OTR
+
+      Laboratories, M.D.             131          Lecture Hall  120   OTR
+
+ACC   Anderson-Clarke Center    4                                     Continuing Studies
+
+AEL   Abercrombie               1    B209         Classroom     19    OTR
+
+      Engineering Laboratory
+
+ANH   Anderson Hall, M.D.       5                                     Architecture
+
+APB   Brown Hall, Alice Pratt   15                                    Music
+
+                                     102          Classroom     35    OTR
+
+                                     116          Classroom     43    OTR
+
+                                     180          Conf Room     12    Baker Institute
+
+BKH   Baker Hall, James A. III  8    229          Classroom     30    OTR
+
+                                     233          Classroom     30    OTR
+
+                                     271          Conf Room     12    Economics
+
+                                     283          Conf Room     20    OTR
+
+                                     145          Conf Room     10    OTR                 summer: 24/7 || fall & spring: 6am-5pm M-F
+
+BNC   Brown College,            13                                    Brown College       fall & spring: weekends; 5pm-6am M-F
+
+      Margarett Root                                                  OTR                 summer: 24/7 || fall & spring: 6am-5pm M-F
+
+                                     146          Classroom     12    Brown College       fall & spring: weekends; 5pm-6am M-F
+
+                                     103          Auditorium    280   BRC
+
+                                     280     Seminar Room       90    BRC
+
+                                     282          Classroom     66    OTR
+
+BRC   BioScience Research       9    284          Classroom     50    OTR
+
+      Collaborative
+
+                                     285          Classroom     24    OTR
+
+                                     286          Classroom     32    OTR
+
+                                     287          SCAL@R Room   30    OTR
+
+BRK   Brockman Hall for         12   101          SCAL@R Room   144   OTR
+
+      Physics                        103          Classroom     30    OTR
+
+COH   Cohen House               19                                    Faculty Club
+
+                                     180          Lecture Hall  87    OTR                 summer: 24/7 || fall & spring: 6am-12pm M-F
+
+DBH   Butcher Hall, Dell        18                                    Chemistry           fall & spring: weekends; 12pm-6am M-F
+
+                                     214     Comp Lab (PC)      24    OTR
+
+DCC   Duncan College            23   113          SCAL@R Room   60    OTR                 summer: 24/7 || fall & spring: 6am-5pm M-F
+
+                                                                      Duncan College      fall & spring: weekends; 5pm-6am M-F
+
+                                     1042         Classroom     46    OTR
+
+                                     1046         Classroom     46    OTR
+
+                                     1055         Lecture Hall  240   OTR                 fall & spring: 6am-12:05pm Tue/Thu
+
+DCH   Duncan Hall, Anne and     25                                    Engineering         all other times
+
+      Charles                        1064         Lecture Hall  73    OTR
+
+                                     1070         Lecture Hall  73    OTR
+
+                                     1075         Classroom     35    OTR
+
+                                     SYM II  Comp Lab (PC)      20    OTR
+
+FON   Fondren Library           27   412          Classroom     22    OTR
+
+                                     Kyle Morrow                      Fondren Library
+
+GRB   Brown Hall, George R.     16   W211         Classroom     40    OTR
+
+                                     W212         Classroom     40    OTR
+
+                                     160A         Classroom     30    OTR                 fall & spring: 8am-12/12:05pm and 1pm-5pm M-F
+
+GRW   Gibbs Recreation and      28                                    Rec Center          all other times
+
+      Wellness Center                                                 OTR                 fall & spring: 8am-12/12:05pm and 1pm-5pm M-F
+
+                                     220          Classroom     26    Rec Center          all other times
+
+6     May 2014                                                                                             Page 1 of 4
+                            Rice University  Office of the  Registrar (OTR) / Buildings  and Classrooms
+
+Code  Building                  Map  Room    Room Type      Cap.  Scheduling Resp        Hours of Responsibility
+
+                                Ref
+
+HAM   Hamman Hall               31                          475   Visual and Dram Arts
+
+                                     21      Classroom      15    OTR
+
+                                     22      Classroom      15    OTR
+
+                                     223     Conf Room      20    Phys and Astr
+
+      Brown Hall for                 227     Lecture Hall   46    OTR
+
+HBH   Mathematical Sciences,    17   254     Conf Room      15    Phys and Astr
+
+      Herman
+
+                                     423     Classroom      17    OTR
+
+                                     427     Classroom      27    OTR
+
+                                     453     Classroom      17    OTR
+
+                                     201     Conf Room      10    OTR                    summer: 24/7 || fall & spring: 6am-5pm M-F
+
+                                                                  Hanszen College        fall & spring: weekends; 5pm-6am M-F
+
+HNZ   Hanszen College, Harry    32   202     Classroom      14    OTR                    summer: 24/7 || fall & spring: 6am-5pm M-F
+
+      Clay                                                        Hanszen College        fall & spring: weekends; 5pm-6am M-F
+
+                                     207     Conf Room      32    OTR                    summer: 24/7 || fall & spring: 6am-5pm M-F
+
+                                                                  Hanszen College        fall & spring: weekends; 5pm-6am M-F
+
+                                     100     Lecture Hall   197   OTR
+
+                                                                  OTR                    summer: 24/7 || fall & spring: weekends; 6am-
+
+                                     125     Classroom      30                           12/12:05pm and 6pm-6am M-F
+
+                                                                  Linguistics            fall & spring: 12/12:05pm-6 pm M-F
+
+                                                                  OTR                    summer: 24/7 || fall & spring: weekends; 6am-
+
+                                     126     Conf Room      24                           12/12:05pm and 6pm-6am M-F
+
+HRG   Herring Hall, Robert  R.  34                                Art History            fall & spring: 12/12:05pm-6 pm M-F
+
+                                     128     Conf Room      7     OTR
+
+                                                                  OTR                    summer: 24/7 || fall & spring: weekends; 6am-
+
+                                     224     Conf Room      22                           12/12:05pm and 6pm-6am M-F
+
+                                                                  English                fall & spring: 12/12:05pm-6 pm M-F
+
+                                     308     Conf Room      12    Humanities Rsrch Ctr
+
+                                     210     Lecture Hall   125   OTR
+
+HRZ   Herzstein Hall            35   211     Classroom      20    OTR
+
+                                     212     Lecture Hall   123   OTR
+
+                                     AMP     Lecture Hall   288   OTR
+
+                                     117     Classroom      70    OTR
+
+                                     118     Classroom      24    OTR
+
+                                     119     Classroom      35    OTR
+
+                                     120     Conf Room      17    OTR
+
+                                                                  OTR                    summer: 24/7 || fall & spring: weekends; 6am-
+
+                                     226     Conf Room      24                           12/12:05pm and 6pm-6am M-F
+
+HUM   Humanities Building       40                                Religious Studies      fall & spring: 12/12:05pm-6 pm M-F
+
+                                                                  OTR                    summer: 24/7 || fall & spring: weekends; 6am-
+
+                                     227     Conf Room      24                           12/12:05pm and 6pm-6am M-F
+
+                                                                  Philosophy             fall & spring: 12/12:05pm-6 pm M-F
+
+                                                                  OTR                    summer: 24/7 || fall & spring: weekends; 6am-
+
+                                     327     Conf Room      24                           12/12:05pm and 6pm-6am M-F
+
+                                                                  History                fall & spring: 12/12:05pm-6 pm M-F
+
+                                     328     Classroom      30    OTR
+
+                                     100     Lecture Hall   265   OTR
+
+                                     101     Classroom      30    OTR
+
+KCK   Keck Hall, Howard         43   102     Lecture Hall   69    OTR                    summer: 24/7 || fall & spring: 6am-12pm M-F
+
+                                                                  IBB                    fall & spring: weekends; 12pm-6am M-F
+
+                                     105     Classroom      20    OTR
+
+                                     107     Classroom      20    OTR
+
+6     May 2014                                                                                           Page 2 of 4
+                              Rice University  Office of the Registrar (OTR) / Buildings     and  Classrooms
+
+Code  Building                 Map  Room       Room Type         Cap.  Scheduling Resp            Hours of Responsibility
+
+                               Ref
+
+KWG   Keith-Wiess Geological   44   100        Lecture Hall      68    OTR
+
+      Laboratories                  130        Comp Lab (Mac)    18    OTR
+
+LEY   Ley Student Center       45                                      RMC
+
+LVC   Lovett College           46   COMMNS     SCAL@R Room       184   OTR                   MWF  10-11 and 2-4, TR 9:25-10:40 and  2:30-3:45
+
+                                                                       Lovett College             all other times
+
+MCN   McNair Hall, Janice and  53                                      Management
+
+      Robert
+
+MEB   Mechanical Engineering   54   128        Classroom         48    OTR
+
+      Building
+
+MED   Media Center             56                                      Visual and Dram Arts
+
+MEL   Mechanical Laboratory    55   251        Classroom         45    OTR
+
+                                    254        Classroom         39    OTR
+
+                                    101        Classroom         16    OTR                   summer: 24/7 || fall & spring: 6am-5pm M-F
+
+                                                                       Martel College             fall & spring: weekends; 5pm-6am M-F
+
+MLC   Martel College, Marian   49   103        Conf Room         12    OTR                   summer: 24/7 || fall & spring: 6am-5pm M-F
+
+      and Speros R.                                                    Martel College             fall & spring: weekends; 5pm-6am M-F
+
+                                    104        Conf Room         12    OTR                   summer: 24/7 || fall & spring: 6am-5pm M-F
+
+                                                                       Martel College             fall & spring: weekends; 5pm-6am M-F
+
+      Mudd Computer
+
+MUD   Science Laboratory,      57                                      Information Tech
+
+      Seeley G.
+
+NSV   North Servery            58                                      Housing and Dining
+
+OED   Oshman Engineering       59                                      Engineering
+
+      Design Kitchen
+
+POL   Police Department        66                                      RUPD
+
+RMC   Rice Memorial Center     63                                      RMC
+
+                                    102        Comp Lab (Linux)  20    OTR
+
+RYN   Ryon Engineering         70                                      OTR                   summer: 24/7 || fall & spring: 6am-12pm M-F
+
+      Laboratory                    201        Lecture Hall      60    Civil and Env Eng          fall & spring: weekends; 12pm-6am M-F
+
+                                    231        Classroom         24    Civil and Env Eng
+
+                                    106        Classroom         28    OTR
+
+                                    121        Classroom         24    OTR
+
+                                    123        SCAL@R Room       39    OTR
+
+                                                                       OTR                   summer: 24/7 || fall & spring: weekends; 6am-
+
+                                    202        Conf Room         12                               12/12:05pm and 6pm-6am M-F
+
+                                                                       French Studies             fall & spring: 12/12:05pm-6 pm M-F
+
+                                    204        Classroom         24    OTR
+
+RZR   Rayzor Hall              60   205        Classroom         24    OTR
+
+                                                                       OTR                   summer: 24/7 || fall & spring: weekends; 6am-
+
+                                    302        Conf Room         12                               12/12:05pm and 6pm-6am M-F
+
+                                                                       Hispanic Studies           fall & spring: 12/12:05pm-6 pm M-F
+
+                                    304        Classroom         24    OTR
+
+                                    305        Classroom         24    OTR
+
+                                                                       OTR                   summer: 24/7 || fall & spring: weekends; 6am-
+
+                                    310        Conf Room         12                               12/12:05pm and 6pm-6am M-F
+
+                                                                       German Studies             fall & spring: 12/12:05pm-6 pm M-F
+
+6     May 2014                                                                                                     Page 3 of 4
+                            Rice University  Office of the Registrar (OTR) / Buildings  and Classrooms
+
+Code  Building                  Map  Room    Room Type       Cap.  Scheduling Resp      Hours of Responsibility
+
+                                Ref
+
+                                     101     Comp Lab (PC)   24    OTR
+
+                                     133     Comp Lab (Mac)  12    OTR
+
+                                     207     Comp Lab (PC)   12    OTR
+
+                                     301     Lecture Hall    168   OTR
+
+                                     303     Lecture Hall    45    OTR
+
+                                     305     Lecture Hall    45    OTR
+
+SEW   Sewall Hall               72   307     Lecture Hall    45    OTR
+
+                                     309     Lecture Hall    82    OTR
+
+                                     460     Classroom       20    OTR
+
+                                                                   OTR                  summer: 24/7 || fall & spring: weekends; 6am-
+
+                                     462     Conf Room       17                         12/12:05pm and 6pm-6am M-F
+
+                                                                   Psychology           fall & spring: 12/12:05pm-6 pm M-F
+
+                                     560     Classroom       20    OTR
+
+                                     562     Conf Room       19    OTR
+
+SST   Space Science and         75   106     Lecture Hall    72    OTR
+
+      Technology Building            337     Classroom       40    Chemistry
+
+SSV   South Servery             74                                 Housing and Dining
+
+STA   Rice Stadium              65                                 Athletics
+
+TUD   Tudor Fieldhouse          76   201     Classroom       30    OTR
+
+                                     123     Conf Room       14    OTR                  summer: 24/7 || fall & spring: 6am-5pm M-F
+
+WSC   Wiess College, Harry  C.  78                                 Wiess College        fall & spring: weekends; 5pm-6am M-F
+
+                                     146     Conf Room       30    OTR                  summer: 24/7 || fall & spring: 6am-5pm M-F
+
+                                                                   Wiess College        fall & spring: weekends; 5pm-6am M-F
+
+WSV   West Servery              77                                 Housing and Dining
+
+6     May 2014                                                                                          Page 4 of 4
+
