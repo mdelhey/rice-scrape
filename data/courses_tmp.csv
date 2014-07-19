@@ -1,368 +1,1389 @@
 courseid,yearterm,year,term,crn,course,title,faculty,meeting,credits,enrolled,raw
-2013 Spring_10696,2013 Spring,2013,Spring,10696,PHIL 101 001,CONTEMPORARY MORAL ISSUES,"Faculty: Bradford, Gwendolyn M.",Meeting: 11:00AM - 11:50AM MWF TBA TBA,3,Enrolled: 15 (Max 15),"PHIL 101Philosophy Courses
-Distribution Group I
+2013 Spring_27974,2013 Spring,2013,Spring,27974,AFSC 102 001,FOUNDATION OF THE USAF II,Faculty:,Meeting: 09:00AM - 09:59AM M TBA TBA; 04:00PM - 05:59PM W TBA TBA,2,Enrolled: 0 (Max 19),"AFSC 102Air Force Science Courses
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 15 (Max 15)
-Waitlisted: 10 (Max 99)
-Current members of the waitlist have priority for available seats.
-Enrollment data as of JUL 13, 2014 15:33
-CONTEMPORARY MORAL ISSUES
-Examination of moral issues surrounding such topics as abortion, euthanasia, war, capital punishment, justice, and equality.
+Enrolled: 0 (Max 19)
+Enrollment data as of JUL 19, 2014 11:21
+FOUNDATION OF THE USAF II
+Course URL: http://www.class.uh.edu/rotc/airforce
+Continuation of AFSC 101. Course taught at the University of Houston.
 CRN	Course	Title		Credits
-10696	PHIL 101 001	CONTEMPORARY MORAL ISSUES	3
-Faculty: Bradford, Gwendolyn M.	
-Meeting: 11:00AM - 11:50AM MWF TBA TBA	
-"
-2013 Spring_13100,2013 Spring,2013,Spring,13100,PHIL 103 001,PHIL ASPECT COGNITIVE SCIENCE,Faculty:,Meeting: 10:00AM - 10:50AM MWF TBA TBA,3,Enrolled: 7 (Max 40),"PHIL 103Philosophy Courses
-Distribution Group I
-Session: Full Term
-Grade Mode: Standard Letter
-Enrolled: 7 (Max 40)
-Enrollment data as of JUL 13, 2014 15:34
-PHILOSOPHICAL ASPECTS OF COGNITIVE SCIENCE
-An examination of current research in cognitive science and its philosophical implications. Topics include whether the mind is a computational system, how the mind is organized, what relations minds bear to brains.
-CRN	Course	Title		Credits
-13100	PHIL 103 001	PHIL ASPECT COGNITIVE SCIENCE	3
+27974	AFSC 102 001	FOUNDATION OF THE USAF II	2
 Faculty:	
-Meeting: 10:00AM - 10:50AM MWF TBA TBA	
+Meeting: 09:00AM - 09:59AM M TBA TBA; 04:00PM - 05:59PM W TBA TBA	
 "
-2013 Spring_10697,2013 Spring,2013,Spring,10697,PHIL 201 001,HISTORY OF PHILOSOPHY I,"Faculty: Siewert, Charles",Meeting: 10:50AM - 12:05PM TR TBA TBA,3,Enrolled: 34 (Max 40),"PHIL 201Philosophy Courses
-Distribution Group I
+2013 Spring_27975,2013 Spring,2013,Spring,27975,AFSC 102 002,FOUNDATION OF THE USAF II,Faculty:,Meeting: 03:00PM - 03:59PM W TBA TBA; 04:00PM - 05:59PM W TBA TBA,2,Enrolled: 2 (Max 19),"AFSC 102Air Force Science Courses
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 34 (Max 40)
-Cross-listed with CLAS 201(10706), MDEM 201(12652)
-Total Cross-list Enrolled: 37 (Max 40)
-Waitlisted: 0 (Max 297)
-Current members of the waitlist have priority for available seats.
-Enrollment data as of JUL 13, 2014 15:34
-HISTORY OF PHILOSOPHY I
-Survey of the major philosophers and philosophical systems of ancient Greece, from Parmenides to the Stoics.
+Enrolled: 2 (Max 19)
+Enrollment data as of JUL 19, 2014 11:21
+FOUNDATION OF THE USAF II
+Course URL: http://www.class.uh.edu/rotc/airforce
+Continuation of AFSC 101. Course taught at the University of Houston.
 CRN	Course	Title		Credits
-10697	PHIL 201 001	HISTORY OF PHILOSOPHY I	3
-Faculty: Siewert, Charles	
-Meeting: 10:50AM - 12:05PM TR TBA TBA	
+27975	AFSC 102 002	FOUNDATION OF THE USAF II	2
+Faculty:	
+Meeting: 03:00PM - 03:59PM W TBA TBA; 04:00PM - 05:59PM W TBA TBA	
 "
-2013 Spring_12574,2013 Spring,2013,Spring,12574,PHIL 301 001,SOCRATES,"Faculty: Morrison, Donald R.",Meeting: 10:50AM - 12:05PM TR TBA TBA,3,Enrolled: 6 (Max 23),"PHIL 301Philosophy Courses
-Distribution Group I
+2013 Spring_27981,2013 Spring,2013,Spring,27981,AFSC 202 001,EVOLUTION OF AIR POWER II,Faculty:,Meeting: 08:00AM - 08:59AM M TBA TBA; 04:00PM - 05:59PM W TBA TBA,2,Enrolled: 0 (Max 19),"AFSC 202Air Force Science Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 19)
+Enrollment data as of JUL 19, 2014 11:21
+EVOLUTION OF AIR POWER II
+Course URL: http://www.class.uh.edu/rotc/airforce
+Continuation of AFSC 201. Course taught at the University of Houston.
+CRN	Course	Title		Credits
+27981	AFSC 202 001	EVOLUTION OF AIR POWER II	2
+Faculty:	
+Meeting: 08:00AM - 08:59AM M TBA TBA; 04:00PM - 05:59PM W TBA TBA	
+"
+2013 Spring_27982,2013 Spring,2013,Spring,27982,AFSC 202 002,EVOLUTION OF AIR POWER II,Faculty:,Meeting: 02:00PM - 02:59PM W TBA TBA; 04:00PM - 05:59PM W TBA TBA,2,Enrolled: 0 (Max 19),"AFSC 202Air Force Science Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 19)
+Enrollment data as of JUL 19, 2014 11:21
+EVOLUTION OF AIR POWER II
+Course URL: http://www.class.uh.edu/rotc/airforce
+Continuation of AFSC 201. Course taught at the University of Houston.
+CRN	Course	Title		Credits
+27982	AFSC 202 002	EVOLUTION OF AIR POWER II	2
+Faculty:	
+Meeting: 02:00PM - 02:59PM W TBA TBA; 04:00PM - 05:59PM W TBA TBA	
+"
+2013 Spring_28107,2013 Spring,2013,Spring,28107,AFSC 302 001,AIR FORCE LEADERSHIP STUDY II,Faculty:,Meeting: 11:30AM - 02:29PM T TBA TBA; 04:00PM - 05:59PM W TBA TBA,3,Enrolled: 0 (Max 20),"AFSC 302Air Force Science Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 20)
+Enrollment data as of JUL 19, 2014 11:21
+AIR FORCE LEADERSHIP STUDY II
+Course URL: http://www.class.uh.edu/rotc/airforce
+Continuation of AFSC 301.
+CRN	Course	Title		Credits
+28107	AFSC 302 001	AIR FORCE LEADERSHIP STUDY II	3
+Faculty:	
+Meeting: 11:30AM - 02:29PM T TBA TBA; 04:00PM - 05:59PM W TBA TBA	
+"
+2013 Spring_26219,2013 Spring,2013,Spring,26219,AFSC 402 001,NATIONAL SECURITY AFFAIRS II,Faculty:,Meeting: 10:00AM - 12:50PM W TBA TBA; 04:00PM - 05:59PM W TBA TBA,3,Enrolled: 0 (Max 19),"AFSC 402Air Force Science Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 19)
+Enrollment data as of JUL 19, 2014 11:21
+NATIONAL SECURITY AFFAIRS II
+Course URL: http://www.class.uh.edu/rotc/airforce
+Continuation of AFSC 401. Course taught at the University of Houston.
+CRN	Course	Title		Credits
+26219	AFSC 402 001	NATIONAL SECURITY AFFAIRS II	3
+Faculty:	
+Meeting: 10:00AM - 12:50PM W TBA TBA; 04:00PM - 05:59PM W TBA TBA	
+"
+2013 Spring_21107,2013 Spring,2013,Spring,21107,ANTH 200 001,INTRO TO STUDY OF LANGUAGE,"Faculty: Taylor, Christopher M.",Meeting: 10:00AM - 10:50AM MWF HRG 100,3,Enrolled: 24 (Max 75),"ANTH 200Anthropology Courses
+Distribution Group II
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 24 (Max 75)
+Cross-listed with LING 200(20158)
+Total Cross-list Enrolled: 72 (Max 75)
+Enrollment data as of JUL 19, 2014 11:21
+INTRODUCTION TO THE SCIENTIFIC STUDY OF LANGUAGE
+Overview of the scientific study of the structure and function of language. Introduces the main fields of linguistics: phonetics, phonology, morphology, syntax, semantics, discourse, historical linguistics, sociolinguistics, and psycholinguistics. Highlights the interdisciplinary relationship of linguistics with anthropology, sociology, psychology, and cognitive sciences.
+CRN	Course	Title		Credits
+21107	ANTH 200 001	INTRO TO STUDY OF LANGUAGE	3
+Faculty: Taylor, Christopher M.	
+Meeting: 10:00AM - 10:50AM MWF HRG 100	
+"
+2013 Spring_23212,2013 Spring,2013,Spring,23212,ANTH 200 002,INTRO TO STUDY OF LANGUAGE,"Faculty: Englebretson, Robert E.",Meeting: 09:25AM - 10:40AM TR HRG 100,3,Enrolled: 24 (Max 75),"ANTH 200Anthropology Courses
+Distribution Group II
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 24 (Max 75)
+Cross-listed with LING 200(23213)
+Total Cross-list Enrolled: 67 (Max 75)
+Enrollment data as of JUL 19, 2014 11:21
+INTRODUCTION TO THE SCIENTIFIC STUDY OF LANGUAGE
+Overview of the scientific study of the structure and function of language. Introduces the main fields of linguistics: phonetics, phonology, morphology, syntax, semantics, discourse, historical linguistics, sociolinguistics, and psycholinguistics. Highlights the interdisciplinary relationship of linguistics with anthropology, sociology, psychology, and cognitive sciences.
+CRN	Course	Title		Credits
+23212	ANTH 200 002	INTRO TO STUDY OF LANGUAGE	3
+Faculty: Englebretson, Robert E.	
+Meeting: 09:25AM - 10:40AM TR HRG 100	
+"
+2013 Spring_28094,2013 Spring,2013,Spring,28094,ANTH 200 003,INTRO TO STUDY OF LANGUAGE,"Faculty: Nelson, Katherine E.",Meeting: 01:00PM - 01:50PM MWF SEW 305,3,Enrolled: 4 (Max 25),"ANTH 200Anthropology Courses
+Distribution Group II
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 4 (Max 25)
+Cross-listed with LING 200(28093)
+Total Cross-list Enrolled: 26 (Max 25)
+Waitlisted: 0 (Max 198)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 19, 2014 11:21
+INTRODUCTION TO THE SCIENTIFIC STUDY OF LANGUAGE
+Overview of the scientific study of the structure and function of language. Introduces the main fields of linguistics: phonetics, phonology, morphology, syntax, semantics, discourse, historical linguistics, sociolinguistics, and psycholinguistics. Highlights the interdisciplinary relationship of linguistics with anthropology, sociology, psychology, and cognitive sciences.
+CRN	Course	Title		Credits
+28094	ANTH 200 003	INTRO TO STUDY OF LANGUAGE	3
+Faculty: Nelson, Katherine E.	
+Meeting: 01:00PM - 01:50PM MWF SEW 305	
+"
+2013 Spring_28666,2013 Spring,2013,Spring,28666,ANTH 201 001,INTRO TO SOCIAL/CULTURAL ANTH,Faculty:,Meeting: TBA TBA,3,Enrolled: 0 (Max 1),"ANTH 201Anthropology Courses
+Distribution Group II
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 1)
+Enrollment data as of JUL 19, 2014 11:21
+INTRODUCTION TO SOCIAL/CULTURAL ANTHROPOLOGY
+Introduction to the history, methods, and concepts of social/cultural anthropology, which is devoted to the systematic description and understanding of cultural diversity in human societies.
+CRN	Course	Title		Credits
+28666	ANTH 201 001	INTRO TO SOCIAL/CULTURAL ANTH	3
+Faculty:	
+Meeting: TBA TBA	
+"
+2013 Spring_26503,2013 Spring,2013,Spring,26503,ANTH 212 001,PERSPECTIVES ON MODERN ASIA,"Faculty: Lewis, Steven W.; Peche, Linda H.",Meeting: 10:50AM - 12:05PM TR MEL 251,3,Enrolled: 8 (Max 40),"ANTH 212Anthropology Courses
+Distribution Group II
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 8 (Max 40)
+Cross-listed with ASIA 212(26502)
+Total Cross-list Enrolled: 30 (Max 40)
+Enrollment data as of JUL 19, 2014 11:27
+PERSPECTIVES ON MODERN ASIA
+A team taught interdisciplinary course focusing on the political, social and economic forces that are shaping the lives of the nearly one-half of the world's population that lives in Asia. Provides a selective, in-depth look at certain important areas of East, Southeast and South Asia that reflect larger themes and problems.
+CRN	Course	Title		Credits
+26503	ANTH 212 001	PERSPECTIVES ON MODERN ASIA	3
+Faculty: Lewis, Steven W.; Peche, Linda H.	
+Meeting: 10:50AM - 12:05PM TR MEL 251	
+"
+2013 Spring_27892,2013 Spring,2013,Spring,27892,ANTH 302 001,ANTHROPOLOGICAL THEORY,"Faculty: Bendixsen, Casper",Meeting: 10:50AM - 12:05PM TR SEW 307,3,Enrolled: 12 (Max 19),"ANTH 302Anthropology Courses
+Distribution Group II
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 12 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+ANTHROPOLOGICAL THEORY: A SURVEY
+A survey of the major theorists and theoretical schools of social-cultural anthropology. Strongly recommended for majors.
+CRN	Course	Title		Credits
+27892	ANTH 302 001	ANTHROPOLOGICAL THEORY	3
+Faculty: Bendixsen, Casper	
+Meeting: 10:50AM - 12:05PM TR SEW 307	
+"
+2013 Spring_25472,2013 Spring,2013,Spring,25472,ANTH 323 001,INTRODUCTION TO PHONOLOGY,"Faculty: McGowan, Kevin B.",Meeting: 02:00PM - 02:50PM MWF BRK 103,3,Enrolled: 0 (Max 25),"ANTH 323Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available - Download Here
+Enrolled: 0 (Max 25)
+Cross-listed with LING 311(25470)
+Total Cross-list Enrolled: 24 (Max 25)
+Enrollment data as of JUL 19, 2014 11:28
+Pre-requisite(s): (ANTH 200 OR LING 200) AND (ANTH 301 OR LING 301) or permission of instructor
+INTRODUCTION TO PHONOLOGY
+Introduction to analysis techniques and theory concerning patternings of sounds in the world's languages. The course will involve extensive work with non-English data sets, and development of analytical techniques such as identification of sound alternations or restrictions, and formalization of abstract representations and rules to account for them.
+CRN	Course	Title		Credits
+25472	ANTH 323 001	INTRODUCTION TO PHONOLOGY	3
+Faculty: McGowan, Kevin B.	
+Meeting: 02:00PM - 02:50PM MWF BRK 103	
+"
+2013 Spring_27895,2013 Spring,2013,Spring,27895,ANTH 349 001,THE ANTHROPOLOGY OF ETHICS,"Faculty: Faubion, James D.",Meeting: 01:00PM - 02:15PM TR SEW 303,3,Enrolled: 15 (Max 19),"ANTH 349Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 15 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+THE ANTHROPOLOGY OF ETHICS
+Philosophical ethics argues over the proper criteria of the definition and the assessment of ethical action. This course focuses on an emerging and increasingly salient anthropological project: empirical inquiry into the themes and variations of ethical systems and the sociocultural rationale for their existence and reproduction.
+CRN	Course	Title		Credits
+27895	ANTH 349 001	THE ANTHROPOLOGY OF ETHICS	3
+Faculty: Faubion, James D.	
+Meeting: 01:00PM - 02:15PM TR SEW 303	
+"
+2013 Spring_27893,2013 Spring,2013,Spring,27893,ANTH 355 001,LANDSCAPE ARCHAEOLOGY,"Faculty: Park, Douglas P.",Meeting: 10:00AM - 11:15AM TR TBA TBA,3,Enrolled: 7 (Max 19),"ANTH 355Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 7 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+LANDSCAPE ARCHAEOLOGY
+This course provides an overview of the way archaeologists study landscapes including studies that emphasize their ecological, symbolic, political economic and religious aspects. Recent theoretical work on landscape will be emphasized, as well as archaeological methods of investigation and interpretation, including remote sensing, surveying, and GIS.
+CRN	Course	Title		Credits
+27893	ANTH 355 001	LANDSCAPE ARCHAEOLOGY	3
+Faculty: Park, Douglas P.	
+Meeting: 10:00AM - 11:15AM TR TBA TBA	
+"
+2013 Spring_21111,2013 Spring,2013,Spring,21111,ANTH 362 001,ARCHAEOLOGICAL FLD TECHNIQUES,"Faculty: Fleisher, Jeffrey B.",Meeting: 02:00PM - 04:59PM W SEW 103,3,Enrolled: 8 (Max 13),"ANTH 362Anthropology Courses
+Cntr for Civic Research Course, Distribution Group II
 Repeatable for Credit
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 6 (Max 23)
-Cross-listed with CLAS 301(12575), MDEM 301(12667)
-Total Cross-list Enrolled: 10 (Max 23)
-Waitlisted: 0 (Max 297)
-Current members of the waitlist have priority for available seats.
-Enrollment data as of JUL 13, 2014 15:34
-Restrictions:
-May not be enrolled in one of the following Level(s):
-Graduate
-SOCRATES
-Topics in the history of philosophy from the 4th century B.C. through the 14th century. Spring 2014 will be devoted to Socrates. Graduate students require permission of instructor.
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 8 (Max 13)
+Enrollment data as of JUL 19, 2014 11:28
+Pre-requisite(s): ANTH 205 or permission of instructor
+ARCHAEOLOGICAL FIELD TECHNIQUES
+Methods used in fieldwork, laboratory analysis, and interpretation of archaeological data from a local site excavated by the class.
 CRN	Course	Title		Credits
-12574	PHIL 301 001	SOCRATES	3
-Faculty: Morrison, Donald R.	
-Meeting: 10:50AM - 12:05PM TR TBA TBA	
+21111	ANTH 362 001	ARCHAEOLOGICAL FLD TECHNIQUES	3
+Faculty: Fleisher, Jeffrey B.	
+Meeting: 02:00PM - 04:59PM W SEW 103	
 "
-2013 Spring_12577,2013 Spring,2013,Spring,12577,PHIL 304 001,METAPHYSICS,"Faculty: Grandy, Richard E.",Meeting: 01:00PM - 02:15PM TR TBA TBA,3,Enrolled: 12 (Max 23),"PHIL 304Philosophy Courses
+2013 Spring_27897,2013 Spring,2013,Spring,27897,ANTH 363 001,EARLY CIVILIZATIONS,"Faculty: Park, Douglas P.",Meeting: 04:00PM - 05:15PM TR SEW 305,3,Enrolled: 23 (Max 19),"ANTH 363Anthropology Courses
+Distribution Group II
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 23 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+EARLY CIVILIZATIONS
+A comparative study of the civilizations of Mesopotamia, Egypt, the Indus, China, and the Maya, emphasizing the causes and conditions of their origins.
+CRN	Course	Title		Credits
+27897	ANTH 363 001	EARLY CIVILIZATIONS	3
+Faculty: Park, Douglas P.	
+Meeting: 04:00PM - 05:15PM TR SEW 305	
+"
+2013 Spring_24080,2013 Spring,2013,Spring,24080,ANTH 381 001,MEDICAL ANTHROPOLOGY,"Faculty: Mitchell, Beverly M.",Meeting: 02:30PM - 05:29PM R SEW 307,3,Enrolled: 23 (Max 19),"ANTH 381Anthropology Courses
+Distribution Group II
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 23 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+MEDICAL ANTHROPOLOGY
+Cultural, ecological, and biological perspectives on human health and disease throughout the world.
+CRN	Course	Title		Credits
+24080	ANTH 381 001	MEDICAL ANTHROPOLOGY	3
+Faculty: Mitchell, Beverly M.	
+Meeting: 02:30PM - 05:29PM R SEW 307	
+"
+2013 Spring_26817,2013 Spring,2013,Spring,26817,ANTH 387 001,ASIAN AMERICAN COMMUNITIES,"Faculty: Peche, Linda H.",Meeting: 01:00PM - 02:15PM TR HRZ 211,3,Enrolled: 8 (Max 19),"ANTH 387Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 8 (Max 19)
+Cross-listed with ASIA 387(26816)
+Total Cross-list Enrolled: 11 (Max 19)
+Waitlisted: 0 (Max 198)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 19, 2014 11:28
+ASIAN AMERICAN CONTEMPORARY COMMUNITIES
+This interdisciplinary course will investigate the diverse cultural traditions and shared experiences of Asian Americans in the United States. By analyzing historical works, literary texts, and films, we will explore a range of topics including Asian immigration, gender roles, identity formation, and ethnic media.
+CRN	Course	Title		Credits
+26817	ANTH 387 001	ASIAN AMERICAN COMMUNITIES	3
+Faculty: Peche, Linda H.	
+Meeting: 01:00PM - 02:15PM TR HRZ 211	
+"
+2013 Spring_27902,2013 Spring,2013,Spring,27902,ANTH 404 002,INDEPENDENT STUDY,"Faculty: Faubion, James D.",Meeting: TBA TBA,1 TO 9,Enrolled: 1 (Permission Required),"ANTH 404Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 1 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+INDEPENDENT STUDY
+Directed reading and preparation of written papers on anthropological subjects not offered in the curriculum and advanced study of subjects on which courses are offered.
+CRN	Course	Title		Credits
+27902	ANTH 404 002	INDEPENDENT STUDY	1 TO 9
+Faculty: Faubion, James D.	
+Meeting: TBA TBA	
+"
+2013 Spring_21114,2013 Spring,2013,Spring,21114,ANTH 404 003,INDEPENDENT STUDY,"Faculty: Georges, Eugenia",Meeting: TBA TBA,1 TO 9,Enrolled: 0 (Permission Required),"ANTH 404Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+INDEPENDENT STUDY
+Directed reading and preparation of written papers on anthropological subjects not offered in the curriculum and advanced study of subjects on which courses are offered.
+CRN	Course	Title		Credits
+21114	ANTH 404 003	INDEPENDENT STUDY	1 TO 9
+Faculty: Georges, Eugenia	
+Meeting: TBA TBA	
+"
+2013 Spring_27904,2013 Spring,2013,Spring,27904,ANTH 404 005,INDEPENDENT STUDY,"Faculty: Ballestero, Andrea",Meeting: TBA TBA,1 TO 9,Enrolled: 0 (Permission Required),"ANTH 404Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+INDEPENDENT STUDY
+Directed reading and preparation of written papers on anthropological subjects not offered in the curriculum and advanced study of subjects on which courses are offered.
+CRN	Course	Title		Credits
+27904	ANTH 404 005	INDEPENDENT STUDY	1 TO 9
+Faculty: Ballestero, Andrea	
+Meeting: TBA TBA	
+"
+2013 Spring_27909,2013 Spring,2013,Spring,27909,ANTH 404 011,INDEPENDENT STUDY,"Faculty: Fleisher, Jeffrey B.",Meeting: TBA TBA,1 TO 9,Enrolled: 3 (Permission Required),"ANTH 404Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 3 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+INDEPENDENT STUDY
+Directed reading and preparation of written papers on anthropological subjects not offered in the curriculum and advanced study of subjects on which courses are offered.
+CRN	Course	Title		Credits
+27909	ANTH 404 011	INDEPENDENT STUDY	1 TO 9
+Faculty: Fleisher, Jeffrey B.	
+Meeting: TBA TBA	
+"
+2013 Spring_26492,2013 Spring,2013,Spring,26492,ANTH 408 001,LINGUISTIC FIELD METHODS,"Faculty: Kemmer, Suzanne E.",Meeting: 02:30PM - 03:45PM TR HNZ 201,5,Enrolled: 0 (Max 19),"ANTH 408Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 19)
+Cross-listed with LING 408(26491)
+Total Cross-list Enrolled: 4 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+Pre-requisite(s): ANTH 407 OR LING 407
+LINGUISTIC FIELD METHODS
+Continuation of ANTH 407 or LING 407.
+CRN	Course	Title		Credits
+26492	ANTH 408 001	LINGUISTIC FIELD METHODS	5
+Faculty: Kemmer, Suzanne E.	
+Meeting: 02:30PM - 03:45PM TR HNZ 201	
+"
+2013 Spring_27899,2013 Spring,2013,Spring,27899,ANTH 420 001,ETHNOGRAPHY STUDIO,"Faculty: Ballestero, Andrea",Meeting: 02:30PM - 05:30PM R RZR 106,3,Enrolled: 2 (Max 5),"ANTH 420Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 2 (Max 5)
+Waitlisted: 0 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 19, 2014 11:28
+ETHNOGRAPHY STUDIO
+Students will read a selection of contemporary ethnographies deemed ""exemplary"" by diverse audiences paired with theoretical works that the authors claim in their arguments. The course will focus on how ethnographies are structured, the central issues they investigate, and how they go about doing this. The central task of the class is to analyze, critically but also productively, what rigor and creativity mean in the ethnographic investigation of contemporary and recurring questions and problems, relations between questions, theory and ethnography will also be explored through students' own ethnographic writing.
+CRN	Course	Title		Credits
+27899	ANTH 420 001	ETHNOGRAPHY STUDIO	3
+Faculty: Ballestero, Andrea	
+Meeting: 02:30PM - 05:30PM R RZR 106	
+"
+2013 Spring_28250,2013 Spring,2013,Spring,28250,ANTH 440 001,REGULATORY TRANSLATIONS LAB,"Faculty: Ballestero, Andrea",Meeting: TBA TBA,2,Enrolled: 4 (Permission Required),"ANTH 440Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 4 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+REGULATORY TRANSLATIONS LAB
+This class examines how the concept of ""translation"" can be used to understand the movement of regulations around our globalized world. It is designed as a research experience that will give students the opportunity to conduct archival research, produce annotated bibliographies, and conduct a literature review with an interdisciplinary approach that combines the social sciences and humanities. This is a hands on lab that will benefit students who are interested in the law from a social perspective and interdisciplinary thinking and research methods. The lab includes participation in the Regulatory Translations Conference in Turkey on May 2013.
+CRN	Course	Title		Credits
+28250	ANTH 440 001	REGULATORY TRANSLATIONS LAB	2
+Faculty: Ballestero, Andrea	
+Meeting: TBA TBA	
+"
+2013 Spring_27903,2013 Spring,2013,Spring,27903,ANTH 491 002,DIRECTED HONORS RESEARCH,"Faculty: Faubion, James D.",Meeting: TBA TBA,3,Enrolled: 0 (Permission Required),"ANTH 491Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+DIRECTED HONORS RESEARCH
+A two-semester sequence of independent research culminating in the preparation and defense of an honors thesis. Open only to candidates formally accepted in the honors program.
+CRN	Course	Title		Credits
+27903	ANTH 491 002	DIRECTED HONORS RESEARCH	3
+Faculty: Faubion, James D.	
+Meeting: TBA TBA	
+"
+2013 Spring_27907,2013 Spring,2013,Spring,27907,ANTH 491 003,DIRECTED HONORS RESEARCH,"Faculty: Georges, Eugenia",Meeting: TBA TBA,3,Enrolled: 0 (Permission Required),"ANTH 491Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+DIRECTED HONORS RESEARCH
+A two-semester sequence of independent research culminating in the preparation and defense of an honors thesis. Open only to candidates formally accepted in the honors program.
+CRN	Course	Title		Credits
+27907	ANTH 491 003	DIRECTED HONORS RESEARCH	3
+Faculty: Georges, Eugenia	
+Meeting: TBA TBA	
+"
+2013 Spring_26280,2013 Spring,2013,Spring,26280,ANTH 491 004,DIRECTED HONORS RESEARCH,Faculty:,Meeting: TBA TBA,3,Enrolled: 0 (Permission Required),"ANTH 491Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+DIRECTED HONORS RESEARCH
+A two-semester sequence of independent research culminating in the preparation and defense of an honors thesis. Open only to candidates formally accepted in the honors program.
+CRN	Course	Title		Credits
+26280	ANTH 491 004	DIRECTED HONORS RESEARCH	3
+Faculty:	
+Meeting: TBA TBA	
+"
+2013 Spring_27905,2013 Spring,2013,Spring,27905,ANTH 491 005,DIRECTED HONORS RESEARCH,"Faculty: Ballestero, Andrea",Meeting: TBA TBA,3,Enrolled: 2 (Permission Required),"ANTH 491Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 2 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+DIRECTED HONORS RESEARCH
+A two-semester sequence of independent research culminating in the preparation and defense of an honors thesis. Open only to candidates formally accepted in the honors program.
+CRN	Course	Title		Credits
+27905	ANTH 491 005	DIRECTED HONORS RESEARCH	3
+Faculty: Ballestero, Andrea	
+Meeting: TBA TBA	
+"
+2013 Spring_26283,2013 Spring,2013,Spring,26283,ANTH 491 006,DIRECTED HONORS RESEARCH,"Faculty: McIntosh, Susan K.",Meeting: TBA TBA,3,Enrolled: 0 (Permission Required),"ANTH 491Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+DIRECTED HONORS RESEARCH
+A two-semester sequence of independent research culminating in the preparation and defense of an honors thesis. Open only to candidates formally accepted in the honors program.
+CRN	Course	Title		Credits
+26283	ANTH 491 006	DIRECTED HONORS RESEARCH	3
+Faculty: McIntosh, Susan K.	
+Meeting: TBA TBA	
+"
+2013 Spring_27910,2013 Spring,2013,Spring,27910,ANTH 491 011,DIRECTED HONORS RESEARCH,"Faculty: Fleisher, Jeffrey B.",Meeting: TBA TBA,3,Enrolled: 1 (Permission Required),"ANTH 491Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 1 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+DIRECTED HONORS RESEARCH
+A two-semester sequence of independent research culminating in the preparation and defense of an honors thesis. Open only to candidates formally accepted in the honors program.
+CRN	Course	Title		Credits
+27910	ANTH 491 011	DIRECTED HONORS RESEARCH	3
+Faculty: Fleisher, Jeffrey B.	
+Meeting: TBA TBA	
+"
+2013 Spring_24758,2013 Spring,2013,Spring,24758,ANTH 495 001,ANTHROPOLOGY CAPSTONE,Faculty:,Meeting: TBA TBA,3,Enrolled: 3 (Max 19),"ANTH 495Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 3 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+ANTHROPOLOGY CAPSTONE
+Required of all anthropology majors who do not enroll in ANTH 490 and ANTH 491. Each student formulates and completes an advanced research project guided by a faculty supervisor and evaluated by a faculty panel.
+CRN	Course	Title		Credits
+24758	ANTH 495 001	ANTHROPOLOGY CAPSTONE	3
+Faculty:	
+Meeting: TBA TBA	
+"
+2013 Spring_28395,2013 Spring,2013,Spring,28395,ANTH 507 001,ANTHRO FROM 2ND WW-PRESENT,"Faculty: Faubion, James D.",Meeting: 02:00PM - 04:59PM M SEW 560,3,Enrolled: 6 (Permission Required),"ANTH 507Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 6 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+ANTHROPOLOGICAL DIRECTIONS FROM SECOND WORLD WAR TO PRESENT
+A sequel to ANTH 306/506, the course explores turns and trends in sociocultural research and critique during the past half-century. Special attention is paid to the rise and fall of structuralism, the problematization of ""the primitive"" and the proliferation of theories of ""practice.""
+CRN	Course	Title		Credits
+28395	ANTH 507 001	ANTHRO FROM 2ND WW-PRESENT	3
+Faculty: Faubion, James D.	
+Meeting: 02:00PM - 04:59PM M SEW 560	
+"
+2013 Spring_25705,2013 Spring,2013,Spring,25705,ANTH 523 001,INTRODUCTION TO PHONOLOGY,"Faculty: McGowan, Kevin B.",Meeting: 02:00PM - 02:50PM MWF BRK 103,3,Enrolled: 0 (Max 10),"ANTH 523Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available - Download Here
+Enrolled: 0 (Max 10)
+Cross-listed with LING 511(25706)
+Total Cross-list Enrolled: 3 (Max 10)
+Enrollment data as of JUL 19, 2014 11:28
+Restrictions:
+Must be enrolled in one of the following Level(s):
+Graduate
+INTRODUCTION TO PHONOLOGY
+Introduction to analysis techniques and theory concerning patternings of sounds in the world's languages. The course will involve extensive work with non-English data sets, and development of analytical techniques such as identification of sound alternations or restrictions, and formalization of abstract representations and rules to account for them. Without Permission of Instructor, must have Graduate Standing.
+CRN	Course	Title		Credits
+25705	ANTH 523 001	INTRODUCTION TO PHONOLOGY	3
+Faculty: McGowan, Kevin B.	
+Meeting: 02:00PM - 02:50PM MWF BRK 103	
+"
+2013 Spring_27896,2013 Spring,2013,Spring,27896,ANTH 549 001,THE ANTHROPOLOGY OF ETHICS,"Faculty: Faubion, James D.",Meeting: 01:00PM - 02:15PM TR SEW 303,3,Enrolled: 5 (Max 10),"ANTH 549Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 5 (Max 10)
+Enrollment data as of JUL 19, 2014 11:28
+THE ANTHROPOLOGY OF ETHICS
+Philosophical ethics argues over the proper criteria of the definition and the assessment of ethical action. This course focuses on an emerging and increasingly salient anthropological project: empirical inquiry into the themes and variations of ethical systems and the sociocultural rationale for their existence and reproduction.
+CRN	Course	Title		Credits
+27896	ANTH 549 001	THE ANTHROPOLOGY OF ETHICS	3
+Faculty: Faubion, James D.	
+Meeting: 01:00PM - 02:15PM TR SEW 303	
+"
+2013 Spring_27894,2013 Spring,2013,Spring,27894,ANTH 555 001,LANDSCAPE ARCHAEOLOGY,"Faculty: Park, Douglas P.",Meeting: TBA TBA,3,Enrolled: 0 (Max 10),"ANTH 555Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 10)
+Enrollment data as of JUL 19, 2014 11:28
+LANDSCAPE ARCHAEOLOGY
+This course provides an overview of the way archaeologists study landscapes including studies that emphasize their ecological, symbolic, political economic and religious aspects. Recent theoretical work on landscape will be emphasized, as well as archaeological methods of investigation and interpretation, including remote sensing, surveying, and GIS.
+CRN	Course	Title		Credits
+27894	ANTH 555 001	LANDSCAPE ARCHAEOLOGY	3
+Faculty: Park, Douglas P.	
+Meeting: TBA TBA	
+"
+2013 Spring_21135,2013 Spring,2013,Spring,21135,ANTH 562 001,ARCHAEOLOGICAL FLD TECHNIQUES,"Faculty: Fleisher, Jeffrey B.",Meeting: 02:00PM - 04:59PM W SEW 103,3,Enrolled: 4 (Max 5),"ANTH 562Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 4 (Max 5)
+Enrollment data as of JUL 19, 2014 11:28
+Pre-requisite(s): ANTH 205
+Restrictions:
+Must be enrolled in one of the following Level(s):
+Undergraduate
+Graduate
+ARCHAEOLOGICAL FIELD TECHNIQUES
+Methods used in fieldwork, laboratory analysis, and interpretation of archaeological data from a local site excavated by the class.
+CRN	Course	Title		Credits
+21135	ANTH 562 001	ARCHAEOLOGICAL FLD TECHNIQUES	3
+Faculty: Fleisher, Jeffrey B.	
+Meeting: 02:00PM - 04:59PM W SEW 103	
+"
+2013 Spring_27898,2013 Spring,2013,Spring,27898,ANTH 563 001,EARLY CIVILIZATIONS,"Faculty: Park, Douglas P.",Meeting: 04:00PM - 05:15PM TR SEW 305,3,Enrolled: 0 (Max 10),"ANTH 563Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 10)
+Enrollment data as of JUL 19, 2014 11:28
+EARLY CIVILIZATIONS
+A comparative study of the civilizations of Mesopotamia, Egypt, the Indus, China, and the Maya, emphasizing the causes and conditions of their origins.
+CRN	Course	Title		Credits
+27898	ANTH 563 001	EARLY CIVILIZATIONS	3
+Faculty: Park, Douglas P.	
+Meeting: 04:00PM - 05:15PM TR SEW 305	
+"
+2013 Spring_24090,2013 Spring,2013,Spring,24090,ANTH 581 001,MEDICAL ANTHROPOLOGY,"Faculty: Mitchell, Beverly M.",Meeting: 02:30PM - 05:29PM R SEW 307,3,Enrolled: 1 (Max 10),"ANTH 581Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 1 (Max 10)
+Enrollment data as of JUL 19, 2014 11:28
+Restrictions:
+Must be enrolled in one of the following Level(s):
+Graduate
+Must be enrolled in one of the following Class(es):
+Graduate
+MEDICAL ANTHROPOLOGY
+Cultural, ecological, and biological perspectives on human health and disease throughout the world.
+CRN	Course	Title		Credits
+24090	ANTH 581 001	MEDICAL ANTHROPOLOGY	3
+Faculty: Mitchell, Beverly M.	
+Meeting: 02:30PM - 05:29PM R SEW 307	
+"
+2013 Spring_27911,2013 Spring,2013,Spring,27911,ANTH 600 001,INDEPENDENT STUDY,Faculty:,Meeting: TBA TBA,1 TO 9,Enrolled: 0 (Max 10),"ANTH 600Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 10)
+Enrollment data as of JUL 19, 2014 11:28
+INDEPENDENT STUDY
+CRN	Course	Title		Credits
+27911	ANTH 600 001	INDEPENDENT STUDY	1 TO 9
+Faculty:	
+Meeting: TBA TBA	
+"
+2013 Spring_21137,2013 Spring,2013,Spring,21137,ANTH 600 002,INDEPENDENT STUDY,"Faculty: Faubion, James D.",Meeting: TBA TBA,1 TO 9,Enrolled: 5 (Max 99),"ANTH 600Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 5 (Max 99)
+Enrollment data as of JUL 19, 2014 11:28
+INDEPENDENT STUDY
+CRN	Course	Title		Credits
+21137	ANTH 600 002	INDEPENDENT STUDY	1 TO 9
+Faculty: Faubion, James D.	
+Meeting: TBA TBA	
+"
+2013 Spring_27908,2013 Spring,2013,Spring,27908,ANTH 600 003,INDEPENDENT STUDY,"Faculty: Georges, Eugenia",Meeting: TBA TBA,1 TO 9,Enrolled: 0 (Permission Required),"ANTH 600Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+INDEPENDENT STUDY
+CRN	Course	Title		Credits
+27908	ANTH 600 003	INDEPENDENT STUDY	1 TO 9
+Faculty: Georges, Eugenia	
+Meeting: TBA TBA	
+"
+2013 Spring_21139,2013 Spring,2013,Spring,21139,ANTH 600 004,INDEPENDENT STUDY,Faculty:,Meeting: TBA TBA,1 TO 9,Enrolled: 0 (Max 99),"ANTH 600Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 99)
+Enrollment data as of JUL 19, 2014 11:28
+INDEPENDENT STUDY
+CRN	Course	Title		Credits
+21139	ANTH 600 004	INDEPENDENT STUDY	1 TO 9
+Faculty:	
+Meeting: TBA TBA	
+"
+2013 Spring_27906,2013 Spring,2013,Spring,27906,ANTH 600 005,INDEPENDENT STUDY,"Faculty: Ballestero, Andrea",Meeting: TBA TBA,1 TO 9,Enrolled: 0 (Permission Required),"ANTH 600Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+INDEPENDENT STUDY
+CRN	Course	Title		Credits
+27906	ANTH 600 005	INDEPENDENT STUDY	1 TO 9
+Faculty: Ballestero, Andrea	
+Meeting: TBA TBA	
+"
+2013 Spring_26385,2013 Spring,2013,Spring,26385,ANTH 602 001,PROPOSAL WRITING SEMINAR,"Faculty: Georges, Eugenia",Meeting: 02:00PM - 04:59PM W MLC 104,3,Enrolled: 3 (Max 10),"ANTH 602Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 3 (Max 10)
+Enrollment data as of JUL 19, 2014 11:28
+ANTHROPOLOGY PROPOSAL WRITING SEMINAR
+This seminar prepares anthropology graduate students to write a successful grant proposal. Basic elements of proposal writing, including problem conceptualization, literature reviews, and methods will be covered.
+CRN	Course	Title		Credits
+26385	ANTH 602 001	PROPOSAL WRITING SEMINAR	3
+Faculty: Georges, Eugenia	
+Meeting: 02:00PM - 04:59PM W MLC 104	
+"
+2013 Spring_27900,2013 Spring,2013,Spring,27900,ANTH 620 001,ETHNOGRAPHY STUDIO,"Faculty: Ballestero, Andrea",Meeting: 02:30PM - 05:30PM R RZR 106,3,Enrolled: 6 (Max 10),"ANTH 620Anthropology Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 6 (Max 10)
+Waitlisted: 0 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 19, 2014 11:28
+ETHNOGRAPHY STUDIO
+Students will read a selection of contemporary ethnographies deemed ""exemplary"" by diverse audiences paired with theoretical works that the authors claim in their arguments. The course will focus on how ethnographies are structured, the central issues they investigate, and how they go about doing this. The central task of the class is to analyze, critically but also productively, what rigor and creativity mean in the ethnographic investigation of contemporary and recurring questions and problems, relations between questions, theory and ethnography will also be explored through students' own ethnographic writing.
+CRN	Course	Title		Credits
+27900	ANTH 620 001	ETHNOGRAPHY STUDIO	3
+Faculty: Ballestero, Andrea	
+Meeting: 02:30PM - 05:30PM R RZR 106	
+"
+2013 Spring_26274,2013 Spring,2013,Spring,26274,ANTH 650 001,PEDAGOGY,"Faculty: Faubion, James D.",Meeting: TBA TBA,3,Enrolled: 0 (Permission Required),"ANTH 650Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+PEDAGOGY
+Recommended Prerequisite(s): Third year and above graduate students.
+Training in the basic elements of teaching in anthropology to be taken in conjunction with applied graduate student teaching in ANTH 316.
+CRN	Course	Title		Credits
+26274	ANTH 650 001	PEDAGOGY	3
+Faculty: Faubion, James D.	
+Meeting: TBA TBA	
+"
+2013 Spring_21149,2013 Spring,2013,Spring,21149,ANTH 800 001,RESEARCH AND THESIS,"Faculty: Faubion, James D.",Meeting: TBA TBA,3 TO 9,Enrolled: 15 (Max 35),"ANTH 800Anthropology Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Satisfactory/Unsatisfactory
+Enrolled: 15 (Max 35)
+Enrollment data as of JUL 19, 2014 11:28
+RESEARCH AND THESIS
+CRN	Course	Title		Credits
+21149	ANTH 800 001	RESEARCH AND THESIS	3 TO 9
+Faculty: Faubion, James D.	
+Meeting: TBA TBA	
+"
+2013 Spring_20378,2013 Spring,2013,Spring,20378,ARAB 102 001,INTRO TO MODERN ARABIC II,"Faculty: Awad, Maher M.",Meeting: 11:00AM - 12:25PM MW KCK 101; 11:00AM - 12:20PM F KCK 101,5,Enrolled: 11 (Max 15),"ARAB 102Arabic Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 11 (Max 15)
+Waitlisted: 0 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 19, 2014 11:28
+INTRODUCTION TO MODERN ARABIC LANGUAGE AND CULTURE II
+Course URL: http://langcenter.rice.edu/
+Recommended Prerequisite(s): Results of Placement Test or ARAB 101 or Permission of Instructor.
+This is the second course in the Arabic sequence. Using an interactive approach, students will expand on the four language skills, acquiring additional basic structures and vocabulary. Multimedia material is an integral part of the course. Students will reach the Intermediate Low proficiency level.
+CRN	Course	Title		Credits
+20378	ARAB 102 001	INTRO TO MODERN ARABIC II	5
+Faculty: Awad, Maher M.	
+Meeting: 11:00AM - 12:25PM MW KCK 101; 11:00AM - 12:20PM F KCK 101	
+"
+2013 Spring_20379,2013 Spring,2013,Spring,20379,ARAB 202 001,INTERMEDIATE MODERN ARABIC II,"Faculty: Awad, Maher M.",Meeting: 12:40PM - 01:45PM MW KCK 101; 12:40PM - 01:50PM F KCK 101,4,Enrolled: 5 (Max 15),"ARAB 202Arabic Courses
 Distribution Group I
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 12 (Max 23)
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 5 (Max 15)
 Waitlisted: 0 (Max 99)
 Current members of the waitlist have priority for available seats.
-Enrollment data as of JUL 13, 2014 15:34
-METAPHYSICS
-Course URL: http://www.owlnet.rice.edu/~phil304
-Recommended prerequisite(s): A previous course in philosophy.
-Examination of metaphysical theories in the works of historical and contemporary thinkers. Topics may include: free will, the identity of persons over time, causation, possibility and necessity, design and chance, the nature of existence, the nature of time.
+Enrollment data as of JUL 19, 2014 11:28
+INTERMEDIATE MODERN ARABIC LANGUAGE AND CULTURE II
+Course URL: http://langcenter.rice.edu/
+Recommended Prerequsite(s): Results of Placement Test or ARAB 201 or Permission of Instructor.
+In this fourth course in the Arabic sequence, assignments and activates center on historical, geographic, social, and literary topics, as well as current issues in the Arab world. Students will acquire additional forms, structures, and expressions that help them communicate their thoughts through discourse at the Intermediate Mid proficiency level.
 CRN	Course	Title		Credits
-12577	PHIL 304 001	METAPHYSICS	3
-Faculty: Grandy, Richard E.	
-Meeting: 01:00PM - 02:15PM TR TBA TBA	
+20379	ARAB 202 001	INTERMEDIATE MODERN ARABIC II	4
+Faculty: Awad, Maher M.	
+Meeting: 12:40PM - 01:45PM MW KCK 101; 12:40PM - 01:50PM F KCK 101	
 "
-2013 Spring_10040,2013 Spring,2013,Spring,10040,PHIL 305 001,MATHEMATICAL LOGIC,"Faculty: Grandy, Richard E.",Meeting: 10:00AM - 10:50AM MWF TBA TBA,3,Enrolled: 27 (Max 35),"PHIL 305Philosophy Courses
+2013 Spring_27605,2013 Spring,2013,Spring,27605,ARAB 302 001,SEMINAR IN ARABIC II,"Faculty: Awad, Maher M.",Meeting: 03:00PM - 03:50PM MWF RZR 205,3,Enrolled: 3 (Max 19),"ARAB 302Arabic Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 3 (Max 19)
+Waitlisted: 0 (Max 99)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 19, 2014 11:28
+SEMINAR IN ARABIC II
+Recommended Prerequisite(s): Results of Placement Test or ARAB 301 or Permission of Instructor.
+Advanced reading and discussions focus on various contemporary literary cultural topics, as well as current issues in the Arab world. The course integrates advanced grammatical constructions with comprehension and communication skills. Students will reach the Intermediate High to Advance Low proficiency.
+CRN	Course	Title		Credits
+27605	ARAB 302 001	SEMINAR IN ARABIC II	3
+Faculty: Awad, Maher M.	
+Meeting: 03:00PM - 03:50PM MWF RZR 205	
+"
+2013 Spring_20381,2013 Spring,2013,Spring,20381,ARAB 399 001,INDEPENDENT STUDY,"Faculty: Awad, Maher M.",Meeting: TBA TBA,1 TO 6,Enrolled: 2 (Permission Required),"ARAB 399Arabic Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 2 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+INDEPENDENT STUDY
+CRN	Course	Title		Credits
+20381	ARAB 399 001	INDEPENDENT STUDY	1 TO 6
+Faculty: Awad, Maher M.	
+Meeting: TBA TBA	
+"
+2013 Spring_20257,2013 Spring,2013,Spring,20257,ARCH 102 001,PRINCIPLES OF ARCHITECTURE II,"Faculty: Alford, Grant",Meeting: 01:00PM - 04:59PM MWF ANH 212,6,Enrolled: 13 (Max 19),"ARCH 102Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 13 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+Pre-requisite(s): ARCH 101
+PRINCIPLES OF ARCHITECTURE II - REPRESENTATION
+What is the role of information and representation within the design process? This studio introduces and explores the tools and concepts of notation and representation in architecture and how they serve as instruments of inquiry in a design processes. The use of precedents is a focus early in the semester, in which students analyze a project and its formal concepts that inform the design of a small architectural project in n the second part of the course. Required for all architecture Majors.
+CRN	Course	Title		Credits
+20257	ARCH 102 001	PRINCIPLES OF ARCHITECTURE II	6
+Faculty: Alford, Grant	
+Meeting: 01:00PM - 04:59PM MWF ANH 212	
+"
+2013 Spring_25893,2013 Spring,2013,Spring,25893,ARCH 102 002,PRINCIPLES OF ARCHITECTURE II,"Faculty: Finley, Dawn M.",Meeting: 01:00PM - 04:59PM MWF ANH 212,6,Enrolled: 12 (Max 19),"ARCH 102Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 12 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+Pre-requisite(s): ARCH 101
+PRINCIPLES OF ARCHITECTURE II - REPRESENTATION
+What is the role of information and representation within the design process? This studio introduces and explores the tools and concepts of notation and representation in architecture and how they serve as instruments of inquiry in a design processes. The use of precedents is a focus early in the semester, in which students analyze a project and its formal concepts that inform the design of a small architectural project in n the second part of the course. Required for all architecture Majors.
+CRN	Course	Title		Credits
+25893	ARCH 102 002	PRINCIPLES OF ARCHITECTURE II	6
+Faculty: Finley, Dawn M.	
+Meeting: 01:00PM - 04:59PM MWF ANH 212	
+"
+2013 Spring_20259,2013 Spring,2013,Spring,20259,ARCH 202 001,PRINCIPLES OF ARCHITECTURE IV,"Faculty: Oliver, Douglas E.",Meeting: 01:00PM - 04:59PM MWF TBA TBA,6,Enrolled: 11 (Max 19),"ARCH 202Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 11 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+Pre-requisite(s): ARCH 201
+PRINCIPLES OF ARCHITECTURE IV - EFFECTS
+What is the relationship between material, technique and spatial or formal effects? This studio focuses on developing a student’s understanding and experimentation with material and tectonic systems, building envelopes, and issues of sustainability. Required for all architecture Majors.
+CRN	Course	Title		Credits
+20259	ARCH 202 001	PRINCIPLES OF ARCHITECTURE IV	6
+Faculty: Oliver, Douglas E.	
+Meeting: 01:00PM - 04:59PM MWF TBA TBA	
+"
+2013 Spring_25894,2013 Spring,2013,Spring,25894,ARCH 202 002,PRINCIPLES OF ARCHITECTURE IV,"Faculty: Wittenberg, Gordon G.",Meeting: 01:00PM - 04:59PM MWF TBA TBA,6,Enrolled: 12 (Max 19),"ARCH 202Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 12 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+Pre-requisite(s): ARCH 201
+PRINCIPLES OF ARCHITECTURE IV - EFFECTS
+What is the relationship between material, technique and spatial or formal effects? This studio focuses on developing a student’s understanding and experimentation with material and tectonic systems, building envelopes, and issues of sustainability. Required for all architecture Majors.
+CRN	Course	Title		Credits
+25894	ARCH 202 002	PRINCIPLES OF ARCHITECTURE IV	6
+Faculty: Wittenberg, Gordon G.	
+Meeting: 01:00PM - 04:59PM MWF TBA TBA	
+"
+2013 Spring_20261,2013 Spring,2013,Spring,20261,ARCH 302 001,INTERMEDIATE PROBLEMS ARCH II,"Faculty: Jimenez, Carlos",Meeting: 01:00PM - 04:59PM MWF TBA TBA,6,Enrolled: 10 (Max 19),"ARCH 302Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 10 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+Pre-requisite(s): ARCH 301
+INTERMEDIATE PROBLEMS IN ARCHTECTURE II - LEGIBILITY
+How do questions of legibility in architecture engage a global milieu? This typically travel focused studio develops a large and complex architectural project in an urban context, examining through design the relationship between a specific locale and culture on the one hand and on the other a global economy and discipline. Required for all architecture Majors.
+CRN	Course	Title		Credits
+20261	ARCH 302 001	INTERMEDIATE PROBLEMS ARCH II	6
+Faculty: Jimenez, Carlos	
+Meeting: 01:00PM - 04:59PM MWF TBA TBA	
+"
+2013 Spring_20262,2013 Spring,2013,Spring,20262,ARCH 302 002,INTERMEDIATE PROBLEMS ARCH II,"Faculty: Schaum, Robert T.",Meeting: 01:00PM - 04:59PM MWF TBA TBA,6,Enrolled: 9 (Max 19),"ARCH 302Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 9 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+Pre-requisite(s): ARCH 301
+INTERMEDIATE PROBLEMS IN ARCHTECTURE II - LEGIBILITY
+How do questions of legibility in architecture engage a global milieu? This typically travel focused studio develops a large and complex architectural project in an urban context, examining through design the relationship between a specific locale and culture on the one hand and on the other a global economy and discipline. Required for all architecture Majors.
+CRN	Course	Title		Credits
+20262	ARCH 302 002	INTERMEDIATE PROBLEMS ARCH II	6
+Faculty: Schaum, Robert T.	
+Meeting: 01:00PM - 04:59PM MWF TBA TBA	
+"
+2013 Spring_25879,2013 Spring,2013,Spring,25879,ARCH 305 001,ARCH FOR NON-ARCHITECTS,"Faculty: Casbarian, John J.; Alford, Grant",Meeting: 07:00PM - 09:59PM M TBA TBA,3,Enrolled: 15 (Permission Required),"ARCH 305Architecture Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 15 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:28
+Instructor permission required
+ARCHITECTURE FOR NON-ARCHITECTS
+This course is designed to increase awareness and appreciation of broad range of architectural issues through lectures, comparative building studies, design exercises, readings, and discussion. Intended for non-majors in architecture, the course will provide students the opportunity to understand the architectural design process through hands-on experience. Enrollment limited by 15 and requires instructor permission.
+CRN	Course	Title		Credits
+25879	ARCH 305 001	ARCH FOR NON-ARCHITECTS	3
+Faculty: Casbarian, John J.; Alford, Grant	
+Meeting: 07:00PM - 09:59PM M TBA TBA	
+"
+2013 Spring_25911,2013 Spring,2013,Spring,25911,ARCH 309 001,TECHNOLOGY II - THE SHELL,"Faculty: Spieler, Christof T.",Meeting: 04:00PM - 05:15PM TR RZR 123,3,Enrolled: 23 (Max 30),"ARCH 309Architecture Courses
 Distribution Group III
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 27 (Max 35)
-Cross-listed with PHIL 505(10041)
-Total Cross-list Enrolled: 27 (Max 40)
-Waitlisted: 0 (Max 99)
-Current members of the waitlist have priority for available seats.
-Enrollment data as of JUL 13, 2014 15:34
-Restrictions:
-May not be enrolled in one of the following Level(s):
-Graduate
-MATHEMATICAL LOGIC
-Course URL: http://www.owlnet.rice.edu/~phil305
-We study formal languages and methods for assessing correctness of arguments, including a brief look at modal and many-valued logics. We also consider their relations to natural languages and reflect on the techniques required to prove theorems about languages. A previous logic course is helpful, though the course is self-contained.
+Course Syllabus Available - Download Here
+Enrolled: 23 (Max 30)
+Enrollment data as of JUL 19, 2014 11:28
+TECHNOLOGY II - THE SHELL
+Recommended Prerequisite: Prior completion of Technology I.
+This course is the second of three required courses in the Architectural Technology sequence in the Rice of Architecture. The topics covered are the design of concrete structures and design of specialized structures including tilt wall, long span, and high-rise. Each structural type is explored in terms of the performance of the overall system, design of individual components, and relation of structure to other building subsystems such as foundation, roofing, enclosure, and interior. This course also addresses sustainability issues specific to structural systems including embodied energy, life cycle costs, and material re-use.
 CRN	Course	Title		Credits
-10040	PHIL 305 001	MATHEMATICAL LOGIC	3
-Faculty: Grandy, Richard E.	
+25911	ARCH 309 001	TECHNOLOGY II - THE SHELL	3
+Faculty: Spieler, Christof T.	
+Meeting: 04:00PM - 05:15PM TR RZR 123	
+"
+2013 Spring_26322,2013 Spring,2013,Spring,26322,ARCH 313 001,CASE STU IN SUSTAINABLE DESIGN,"Faculty: Taylor, Rives T.",Meeting: 07:00PM - 09:29PM R TBA TBA,3,Enrolled: 18 (Max 25),"ARCH 313Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available - Download Here
+Enrolled: 18 (Max 25)
+Cross-listed with ENST 313(26321)
+Total Cross-list Enrolled: 22 (Max 25)
+Enrollment data as of JUL 19, 2014 11:28
+CASE STUDIES IN SUSTAINABLE DESIGN
+This course will explore sustainable design from initial sustainable facility concepts and team organizations, to enlisting community support and process assessment. The course will develop into details about sustainable design, lessons learned, processes and outcomes. Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
+CRN	Course	Title		Credits
+26322	ARCH 313 001	CASE STU IN SUSTAINABLE DESIGN	3
+Faculty: Taylor, Rives T.	
+Meeting: 07:00PM - 09:29PM R TBA TBA	
+"
+2013 Spring_26622,2013 Spring,2013,Spring,26622,ARCH 316 001,TECHNOLOGY IV -THE ENVIRONMENT,"Faculty: Redding, Stephen M.",Meeting: 04:00PM - 05:15PM TR TBA TBA,3,Enrolled: 16 (Max 19),"ARCH 316Architecture Courses
+Distribution Group III
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 16 (Max 19)
+Enrollment data as of JUL 19, 2014 11:28
+TECHNOLOGY IV -THE ENVIRONMENT
+This course addresses building environmental systems including power, water, and wastewater with an emphasis on air condition systems. Through multimedia presentations and fieldtrips, students are taught to analyze the thermal environment in a variety of building types and select equipment to meet these needs. Sustainability issues related to environmental systems such as energy conservational and life cycle costs are also addressed.
+CRN	Course	Title		Credits
+26622	ARCH 316 001	TECHNOLOGY IV -THE ENVIRONMENT	3
+Faculty: Redding, Stephen M.	
+Meeting: 04:00PM - 05:15PM TR TBA TBA	
+"
+2013 Spring_27004,2013 Spring,2013,Spring,27004,ARCH 317 001,LANDSCAPE & SITE STRAT HOUSTON,"Faculty: Albert, Laurence D.; Whitehead, Kerry C.",Meeting: 07:00PM - 09:45PM T TBA TBA,3,Enrolled: 1 (Max 25),"ARCH 317Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 1 (Max 25)
+Enrollment data as of JUL 19, 2014 11:28
+LANDSCAPE AND SITE STRATEGIES FOR HOUSTON
+This course is a workshop in site planning, with Houston as its focus. It will allow students to gain practice assessing, cataloging, and communicating the many complex issues that go into plugging a building into a site. We will navigate the networks created by natural environments, the build and legal environments, and access. The final product of this course is a site plan. Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
+CRN	Course	Title		Credits
+27004	ARCH 317 001	LANDSCAPE & SITE STRAT HOUSTON	3
+Faculty: Albert, Laurence D.; Whitehead, Kerry C.	
+Meeting: 07:00PM - 09:45PM T TBA TBA	
+"
+2013 Spring_28237,2013 Spring,2013,Spring,28237,ARCH 323 002,SEMINAR IN ARCHITECTURE,"Faculty: Manning, Andrea C.",Meeting: 01:00PM - 03:29PM T TBA TBA,3,Enrolled: 8 (Max 25),"ARCH 323Architecture Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 8 (Max 25)
+Enrollment data as of JUL 19, 2014 11:28
+SEMINAR IN ARCHITECTURE
+Small, focused, discussion, workshop and/or design based courses on topics of recent research in architecture, delivered by RSA full time or visiting faculty. This seminar series is open to RSA undergraduate and graduate students.Students from other departments may enroll in the course with instructor permission. ""See our website for more information: arch.rice.edu/courses"". Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
+CRN	Course	Title		Credits
+28237	ARCH 323 002	SEMINAR IN ARCHITECTURE	3
+Faculty: Manning, Andrea C.	
+Meeting: 01:00PM - 03:29PM T TBA TBA	
+"
+2013 Spring_28228,2013 Spring,2013,Spring,28228,ARCH 323 004,SEMINAR IN ARCHITECTURE,"Faculty: Lander, Shira L.",Meeting: 03:00PM - 05:59PM T HBH 423,3,Enrolled: 1 (Max 19),"ARCH 323Architecture Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 1 (Max 19)
+Cross-listed with RELI 345(28227)
+Total Cross-list Enrolled: 8 (Max 19)
+Waitlisted: 0 (Max 198)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 19, 2014 11:28
+SEMINAR IN ARCHITECTURE
+Small, focused, discussion, workshop and/or design based courses on topics of recent research in architecture, delivered by RSA full time or visiting faculty. This seminar series is open to RSA undergraduate and graduate students.Students from other departments may enroll in the course with instructor permission. ""See our website for more information: arch.rice.edu/courses"". Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
+CRN	Course	Title		Credits
+28228	ARCH 323 004	SEMINAR IN ARCHITECTURE	3
+Faculty: Lander, Shira L.	
+Meeting: 03:00PM - 05:59PM T HBH 423	
+"
+2013 Spring_28215,2013 Spring,2013,Spring,28215,ARCH 345 001,HISTORY & THEORY II - PRE 1890,"Faculty: El-Dahdah, Fares; Hamadeh, Shirine T.",Meeting: 11:00AM - 11:50AM MWF SEW 307,3,Enrolled: 24 (Max 33),"ARCH 345Architecture Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 24 (Max 33)
+Cross-listed with HART 345(28214)
+Total Cross-list Enrolled: 27 (Max 33)
+Enrollment data as of JUL 19, 2014 11:28
+HISTORY AND THEORY II - PRE 1890
+An in-depth exploration as to why select monuments from Antiquity through the 19th century were 'canonized' in popular imagination and given referential status. Following a case study format, each week will focus on a particular building, built or unbuilt, from both Western and Eastern traditions.
+CRN	Course	Title		Credits
+28215	ARCH 345 001	HISTORY & THEORY II - PRE 1890	3
+Faculty: El-Dahdah, Fares; Hamadeh, Shirine T.	
+Meeting: 11:00AM - 11:50AM MWF SEW 307	
+"
+2013 Spring_27213,2013 Spring,2013,Spring,27213,ARCH 352 001,HISTORY & THEORY IV 1968-PRES,"Faculty: Hight, Charles C.",Meeting: 10:00AM - 10:50AM MWF TBA TBA,3,Enrolled: 1 (Max 33),"ARCH 352Architecture Courses
+Distribution Group I
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available - Download Here
+Enrolled: 1 (Max 33)
+Enrollment data as of JUL 19, 2014 11:28
+Pre-requisite(s): (ARCH 225 OR ARCH 525) AND (ARCH 345 OR ARCH 645) AND (ARCH 346 OR ARCH 646)
+HISTORY AND THEORY IV - 1968 TO PRESENT
+This course provides an overview of key projects and concepts of contemporary architecture and related fields. Lectures on case-studies drawn from around the world from the late 20th century through the present are complimented by weekly seminars. This course is required for students in the undergraduate an undergraduate architecture programs, enrollment of other students is welcome but may be limited based on availability and approval of the instructor.
+CRN	Course	Title		Credits
+27213	ARCH 352 001	HISTORY & THEORY IV 1968-PRES	3
+Faculty: Hight, Charles C.	
 Meeting: 10:00AM - 10:50AM MWF TBA TBA	
 "
-2013 Spring_11476,2013 Spring,2013,Spring,11476,PHIL 306 002,ETHICS,"Faculty: Sher, George",Meeting: 03:00PM - 03:50PM MWF TBA TBA,3,Enrolled: 22 (Max 22),"PHIL 306Philosophy Courses
-Distribution Group I
+2013 Spring_23706,2013 Spring,2013,Spring,23706,ARCH 353 001,PHOTO FOR ARCHITECTS,"Faculty: White, Frank S.",Meeting: 09:25AM - 10:40AM TR TBA TBA,3,Enrolled: 10 (Max 25),"ARCH 353Architecture Courses
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 22 (Max 22)
-Waitlisted: 4 (Max 99)
-Current members of the waitlist have priority for available seats.
-Enrollment data as of JUL 13, 2014 15:34
-ETHICS
-This course deals with fundamental questions of value and morality-questions such as: What sort of life is best? What kind of person is it best to be? What does morality require of us? It also deals with important second-order questions about these fundamental questions- for example: Can morality be justified? How can we know what's right or good? Is there moral truth? What is the relation between morality and self-interest? Readings are drawn from both classical and contemporary sources.
+Enrolled: 10 (Max 25)
+Enrollment data as of JUL 19, 2014 11:28
+PHOTOGRAPHY FOR ARCHITECTS
+Exploration of a variety of photographic techniques for architectural research, design, and presentation. Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
 CRN	Course	Title		Credits
-11476	PHIL 306 002	ETHICS	3
-Faculty: Sher, George	
-Meeting: 03:00PM - 03:50PM MWF TBA TBA	
+23706	ARCH 353 001	PHOTO FOR ARCHITECTS	3
+Faculty: White, Frank S.	
+Meeting: 09:25AM - 10:40AM TR TBA TBA	
 "
-2013 Spring_11964,2013 Spring,2013,Spring,11964,PHIL 312 002,PHILOSOPHY OF MIND,"Faculty: Siewert, Charles",Meeting: 01:00PM - 02:15PM TR TBA TBA,3,Enrolled: 23 (Max 23),"PHIL 312Philosophy Courses
-Distribution Group I
-Session: Full Term
-Grade Mode: Standard Letter
-Enrolled: 23 (Max 23)
-Waitlisted: 26 (Max 99)
-Current members of the waitlist have priority for available seats.
-Enrollment data as of JUL 13, 2014 15:34
-PHILOSOPHY OF MIND
-Recommended- Prerequisite(s): One course in philosophy or permission of the instructor.
-Inquiry into the nature of mind. Questions include: how should we conceive of the relationship of mind and body? What is consciousness, and how might it be explained? How can mental states be causes? Can one’s mind and its contents die outside one’s brain?
-CRN	Course	Title		Credits
-11964	PHIL 312 002	PHILOSOPHY OF MIND	3
-Faculty: Siewert, Charles	
-Meeting: 01:00PM - 02:15PM TR TBA TBA	
-"
-2013 Spring_11808,2013 Spring,2013,Spring,11808,PHIL 316 001,PHILOSOPHY OF LAW,"Faculty: Brody, Baruch A.",Meeting: 02:30PM - 03:45PM TR TBA TBA,3,Enrolled: 23 (Max 23),"PHIL 316Philosophy Courses
-Distribution Group I
-Session: Full Term
-Grade Mode: Standard Letter
-Enrolled: 23 (Max 23)
-Waitlisted: 9 (Max 99)
-Current members of the waitlist have priority for available seats.
-Enrollment data as of JUL 13, 2014 15:34
-PHILOSOPHY OF LAW
-Examination of fundamental philosophical problems in criminal law, property law, contract law and the law of torts.
-CRN	Course	Title		Credits
-11808	PHIL 316 001	PHILOSOPHY OF LAW	3
-Faculty: Brody, Baruch A.	
-Meeting: 02:30PM - 03:45PM TR TBA TBA	
-"
-2013 Spring_12582,2013 Spring,2013,Spring,12582,PHIL 326 001,HISTORY OF ETHICS,"Faculty: Brody, Baruch A.",Meeting: 02:00PM - 04:59PM W TBA TBA,3,Enrolled: 6 (Max 19),"PHIL 326Philosophy Courses
-Distribution Group I
-Session: Full Term
-Grade Mode: Standard Letter
-Enrolled: 6 (Max 19)
-Cross-listed with PHIL 526(12583)
-Total Cross-list Enrolled: 10 (Max 29)
-Enrollment data as of JUL 13, 2014 16:14
-HISTORY OF ETHICS
-Recommended Prerequisite(s): One previous course in Philosophy.
-An introduction to the major issues of ethical theory through the reading and discussion of such classical figures as Plato, Aristotle, the Stoics, the Epicureans, St. Augustine, St. Thomas, Maimonides, Bishop Butler, David Hume, Adam Smith, J.S. Mill, and I. Kant.
-CRN	Course	Title		Credits
-12582	PHIL 326 001	HISTORY OF ETHICS	3
-Faculty: Brody, Baruch A.	
-Meeting: 02:00PM - 04:59PM W TBA TBA	
-"
-2013 Spring_12579,2013 Spring,2013,Spring,12579,PHIL 334 001,ACHIEVEMENT & MEANING OF LIFE,"Faculty: Bradford, Gwendolyn M.",Meeting: 03:00PM - 03:50PM MWF TBA TBA,3,Enrolled: 23 (Max 23),"PHIL 334Philosophy Courses
-Distribution Group I
-Session: Full Term
-Grade Mode: Standard Letter
-Enrolled: 23 (Max 23)
-Waitlisted: 4 (Max 99)
-Current members of the waitlist have priority for available seats.
-Enrollment data as of JUL 13, 2014 15:14
-ACHIEVEMENT AND THE MEANING OF LIFE
-This course looks at the value of achievements in a rigorous philosophical manner. We examine approaches to the meaning of life and the value of achievement in the works of great philosophers, current philosophy, and draw from literature, history, current events, and psychology.
-CRN	Course	Title		Credits
-12579	PHIL 334 001	ACHIEVEMENT & MEANING OF LIFE	3
-Faculty: Bradford, Gwendolyn M.	
-Meeting: 03:00PM - 03:50PM MWF TBA TBA	
-"
-2013 Spring_11809,2013 Spring,2013,Spring,11809,PHIL 354 001,PHILOSOPHY OF PERCEPTION,Faculty:,Meeting: 01:00PM - 01:50PM MWF TBA TBA,3,Enrolled: 14 (Max 23),"PHIL 354Philosophy Courses
-Session: Full Term
-Grade Mode: Standard Letter
-Enrolled: 14 (Max 23)
-Waitlisted: 0 (Max 99)
-Current members of the waitlist have priority for available seats.
-Enrollment data as of JUL 13, 2014 15:14
-PHILOSOPHY OF PERCEPTION
-Recommended Prerequisite(s): PHIL 103 and PHIL 202.
-Perception is our most immediate form of acquaintance with the world. It is a rich source of experience and of information. Perception guides action and it grounds concepts and beliefs. Yet, the world we encounter perceptually can seem to differ dramatically from the world as described by science. This course aims at an understanding of the nature of perception and of perceptual experience.
-CRN	Course	Title		Credits
-11809	PHIL 354 001	PHILOSOPHY OF PERCEPTION	3
-Faculty:	
-Meeting: 01:00PM - 01:50PM MWF TBA TBA	
-"
-2013 Spring_11501,2013 Spring,2013,Spring,11501,PHIL 401 001,INDEPENDENT READING I,"Faculty: Sher, George",Meeting: TBA TBA,3,Enrolled: 0 (Permission Required),"PHIL 401Philosophy Courses
+2013 Spring_27552,2013 Spring,2013,Spring,27552,ARCH 363 001,ARCH FREEHAND DRAWING WKSHOP,"Faculty: Cannady, William T.",Meeting: 09:00AM - 11:29AM F TBA TBA,3,Enrolled: 2 (Max 25),"ARCH 363Architecture Courses
 Repeatable for Credit
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 0 (Permission Required)
-Enrollment data as of JUL 13, 2014 15:14
-Instructor permission required
-INDEPENDENT READING I
-Course for undergraduate students to pursue independent research projects under direction of a philosophy department faculty member.
+Enrolled: 2 (Max 25)
+Enrollment data as of JUL 19, 2014 11:28
+ARCHITECTURAL FREEHAND DRAWING WORKSHOP
+The object of this workshop is to explore, practice and develop a series of drawing methods and techniques in the context of the architectural design process. Emphasis will be on the development of free-hand drawing skills that will enhance the ability the ability of the design in communicating conceptual ideas. The course will consist of a combination of lectures/demonstrations, in-class drawing exercises, and out-of-class assignments. Two sketch books (one at mid-term and one at the end of the semester) will also be required. Attendance is critical. Please come to the first class prepared to draw with pen and an 8 1/2 x 11 or 9 x 12 sketch pad. Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
 CRN	Course	Title		Credits
-11501	PHIL 401 001	INDEPENDENT READING I	3
-Faculty: Sher, George	
-Meeting: TBA TBA	
+27552	ARCH 363 001	ARCH FREEHAND DRAWING WKSHOP	3
+Faculty: Cannady, William T.	
+Meeting: 09:00AM - 11:29AM F TBA TBA	
 "
-2013 Spring_10485,2013 Spring,2013,Spring,10485,PHIL 411 001,SENIOR THESIS,"Faculty: Crowell, Steven G.",Meeting: TBA TBA,3,Enrolled: 0 (Permission Required),"PHIL 411Philosophy Courses
-Session: Full Term
-Grade Mode: Satisfactory/Unsatisfactory
-Enrolled: 0 (Permission Required)
-Enrollment data as of JUL 13, 2014 15:14
-Instructor permission required
-SENIOR THESIS
-Independent research course for undergraduate philosophy majors who wish to write a senior thesis and become eligible for honors in the major. Students may enroll in PHIL 411 only with consent of a faculty advisor and the department, and only if they intend to enroll in PHIL 412 as well. Senior Thesis is a year-long research course.
-CRN	Course	Title		Credits
-10485	PHIL 411 001	SENIOR THESIS	3
-Faculty: Crowell, Steven G.	
-Meeting: TBA TBA	
-"
-2013 Spring_12584,2013 Spring,2013,Spring,12584,PHIL 502 001,SEMINAR IN MODERN PHILOSOPHY,"Faculty: Kulstad, Mark A.",Meeting: 01:00PM - 03:59PM F TBA TBA,3,Enrolled: 5 (Max 10),"PHIL 502Philosophy Courses
-Repeatable for Credit
+2013 Spring_28101,2013 Spring,2013,Spring,28101,ARCH 367 001,SCULPTURE STUDIO,"Faculty: Beradino, Mike A.",Meeting: 06:00PM - 09:01PM TR SEW 254,3,Enrolled: 1 (Max 12),"ARCH 367Architecture Courses
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 5 (Max 10)
-Enrollment data as of JUL 13, 2014 15:14
+Course Syllabus Available - Download Here
+Enrolled: 1 (Max 12)
+Cross-listed with ARTS 366(28100)
+Total Cross-list Enrolled: 7 (Max 12)
+Enrollment data as of JUL 19, 2014 11:28
+SCULPTURE STUDIO
+Recommended Prerequisite(s): ARTS 365 or ARTV 365.
+This class will consider different approaches to site-specific art from the 1970s to the present day through a series of 'case studies.' Artists we will look at include Robert Smithson, Ana Mendieta, Mierle Laderman Uketes, James Turrell, Mel Ziegler and Kate Ericson, Gordon Matta-Clark and Francis Alys. Students will develop projects that consider natural landscape, architecture, urban and public spaces, institutional framework, history and other contextual issues. Readings, group discussions, field trips and class critiques are integral to the course. Space in studio classes is limited. Registration does not guarantee a place in class. The class roster is formulated on the first day of class by the instructor.
+CRN	Course	Title		Credits
+28101	ARCH 367 001	SCULPTURE STUDIO	3
+Faculty: Beradino, Mike A.	
+Meeting: 06:00PM - 09:01PM TR SEW 254	
+"
+2013 Spring_27264,2013 Spring,2013,Spring,27264,ARCH 370 001,DESIGNING THE SOCIAL,"Faculty: Colman, Scott W.",Meeting: 01:00PM - 03:29PM T TBA TBA,3,Enrolled: 9 (Max 25),"ARCH 370Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 9 (Max 25)
+Enrollment data as of JUL 19, 2014 11:28
+DESIGNING THE SOCIAL: ARCHITECTURE & COLLECTIVE ASSOC. - 'COMRADES,' 'THE DUDE,' AND BEYOND
+Although one can point to the New England town hall in Alexis de Tocqueville's ""Democracy in America"" (1835/40) or the bowling alley in connection with Robert D. Putnam's ""Bowling Alone: The Collapse and Revival of American Community"" (2000), architecture's social agency has been notoriously and productively difficult to pin down and architecture's relationship to the social sciences has been as tense as it has been constant. The course will focus its efforts on architecture's past and potential contribution to what has historically been called 'civic association' - the realm of social activity outside the market and purview of the state. Each class will focus on a particular architectural mode of social projection through the close reading of a single architectural work. In the major assignment for the course, students will be asked to conceive alternate architectural modes of social engagement and to speculate on their potential implications. Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
+CRN	Course	Title		Credits
+27264	ARCH 370 001	DESIGNING THE SOCIAL	3
+Faculty: Colman, Scott W.	
+Meeting: 01:00PM - 03:29PM T TBA TBA	
+"
+2013 Spring_26886,2013 Spring,2013,Spring,26886,ARCH 371 001,JAPANESE ART & ARCHITECTURE,"Faculty: Nakamori, Yasufumi",Meeting: 06:00PM - 09:00PM T HUM 118,3,Enrolled: 6 (Max 15),"ARCH 371Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 6 (Max 15)
+Cross-listed with ASIA 379(26885), HART 379(26884)
+Total Cross-list Enrolled: 15 (Max 15)
+Waitlisted: 0 (Max 297)
+Current members of the waitlist have priority for available seats.
+Enrollment data as of JUL 19, 2014 11:31
+POST-1945 JAPANESE ART & ARCHITECTURE
+This course investigates post-1945 Japanese art and architecture, contextualized as part of the nation's modern history, and with a particular focus on the socially and politically turbulent decades of the 1950s and 60s. Using artistic collectivism as a methodology, the course examines a wide range of collaborations in visual art and architecture, as seen in exhibitions, performances, and publications.
+CRN	Course	Title		Credits
+26886	ARCH 371 001	JAPANESE ART & ARCHITECTURE	3
+Faculty: Nakamori, Yasufumi	
+Meeting: 06:00PM - 09:00PM T HUM 118	
+"
+2013 Spring_20274,2013 Spring,2013,Spring,20274,ARCH 374 001,THE JOY OF MATERIALS,"Faculty: Jimenez, Carlos",Meeting: 09:00AM - 11:29AM W TBA TBA,3,Enrolled: 9 (Max 25),"ARCH 374Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 9 (Max 25)
+Enrollment data as of JUL 19, 2014 11:31
 Restrictions:
-Must be enrolled in one of the following Level(s):
-Graduate
-Must be enrolled in one of the following Major(s):
-Philosophy
 Must be enrolled in one of the following Class(es):
-Graduate
-SEMINAR IN MODERN PHILOSOPHY
-Graduate level examination of topics and figures of 17th and 18th century history of philosophy. Topics vary from year to year. Repeatable for credit with the consent of the instructor.
+Senior
+THE JOY OF MATERIALS
+An investigation of how materials influence and inspire the making of works of architecture. Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
 CRN	Course	Title		Credits
-12584	PHIL 502 001	SEMINAR IN MODERN PHILOSOPHY	3
-Faculty: Kulstad, Mark A.	
-Meeting: 01:00PM - 03:59PM F TBA TBA	
+20274	ARCH 374 001	THE JOY OF MATERIALS	3
+Faculty: Jimenez, Carlos	
+Meeting: 09:00AM - 11:29AM W TBA TBA	
 "
-2013 Spring_13151,2013 Spring,2013,Spring,13151,PHIL 503 001,SEMINAR IN EPISTEMOLOGY,"Faculty: Harmon, Ian T.",Meeting: 02:30PM - 05:29PM R TBA TBA,3,Enrolled: 1 (Max 19),"PHIL 503Philosophy Courses
+2013 Spring_20277,2013 Spring,2013,Spring,20277,ARCH 402 001,ADVANCED TOPICS ARCHITECTURE,"Faculty: Vassallo Fernandez, Jesus",Meeting: 01:00PM - 04:59PM MWF TBA TBA,6,Enrolled: 10 (Max 19),"ARCH 402Architecture Courses
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 1 (Max 19)
-Enrollment data as of JUL 13, 2014 15:14
-SEMINAR IN EPISTEMOLOGY
+Course Syllabus Available - Download Here
+Enrolled: 10 (Max 19)
+Enrollment data as of JUL 19, 2014 11:31
+Pre-requisite(s): ARCH 401 AND ARCH 403
+ADVANCED TOPICS IN ARCHITECTURE - WILLIAM WARD WATKIN
+The final design studio of the four year BA in Architecture is conducted as design research studio in which students pursue a topic and develop a brief under a conceptual umbrella provided by the instructor. The studio is linked to the ARCH 403 design research seminar taken the semester prior to the studio. Required for all architecture Majors.
 CRN	Course	Title		Credits
-13151	PHIL 503 001	SEMINAR IN EPISTEMOLOGY	3
-Faculty: Harmon, Ian T.	
-Meeting: 02:30PM - 05:29PM R TBA TBA	
+20277	ARCH 402 001	ADVANCED TOPICS ARCHITECTURE	6
+Faculty: Vassallo Fernandez, Jesus	
+Meeting: 01:00PM - 04:59PM MWF TBA TBA	
 "
-2013 Spring_10041,2013 Spring,2013,Spring,10041,PHIL 505 001,MATHEMATICAL LOGIC,"Faculty: Grandy, Richard E.",Meeting: 10:00AM - 10:50AM MWF TBA TBA,3,Enrolled: 0 (Max 5),"PHIL 505Philosophy Courses
+2013 Spring_20278,2013 Spring,2013,Spring,20278,ARCH 402 002,ADVANCED TOPICS ARCHITECTURE,"Faculty: Roberts, Bryony",Meeting: 01:00PM - 04:59PM MWF TBA TBA,6,Enrolled: 12 (Max 19),"ARCH 402Architecture Courses
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 0 (Max 5)
-Cross-listed with PHIL 305(10040)
-Total Cross-list Enrolled: 27 (Max 40)
-Waitlisted: 0 (Max 99)
-Current members of the waitlist have priority for available seats.
-Enrollment data as of JUL 13, 2014 15:14
-Restrictions:
-Must be enrolled in one of the following Level(s):
-Graduate
-Must be enrolled in one of the following Major(s):
-Philosophy
-MATHEMATICAL LOGIC
-Course URL: http://www.owlnet.rice.edu/~phil305
-An version of PHIL 305 for philosophy graduate students which includes further reading of material on philosophy of logic.
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 12 (Max 19)
+Enrollment data as of JUL 19, 2014 11:31
+Pre-requisite(s): ARCH 401 AND ARCH 403
+ADVANCED TOPICS IN ARCHITECTURE - WILLIAM WARD WATKIN
+The final design studio of the four year BA in Architecture is conducted as design research studio in which students pursue a topic and develop a brief under a conceptual umbrella provided by the instructor. The studio is linked to the ARCH 403 design research seminar taken the semester prior to the studio. Required for all architecture Majors.
 CRN	Course	Title		Credits
-10041	PHIL 505 001	MATHEMATICAL LOGIC	3
-Faculty: Grandy, Richard E.	
-Meeting: 10:00AM - 10:50AM MWF TBA TBA	
+20278	ARCH 402 002	ADVANCED TOPICS ARCHITECTURE	6
+Faculty: Roberts, Bryony	
+Meeting: 01:00PM - 04:59PM MWF TBA TBA	
 "
-2013 Spring_12580,2013 Spring,2013,Spring,12580,PHIL 508 001,SEM CONTINENTAL PHILOSOPHY,"Faculty: Crowell, Steven G.",Meeting: 02:00PM - 04:59PM M TBA TBA,3,Enrolled: 5 (Max 10),"PHIL 508Philosophy Courses
+2013 Spring_28454,2013 Spring,2013,Spring,28454,ARCH 412 001,ADV SEMINAR IN ARCHITECTURE,"Faculty: Witte, Ronald R.",Meeting: 01:00PM - 03:29PM R TBA TBA,3,Enrolled: 4 (Max 20),"ARCH 412Architecture Courses
 Repeatable for Credit
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 5 (Max 10)
-Enrollment data as of JUL 13, 2014 15:14
-SEMINAR IN CONTINENTAL PHILOSOPHY
-The study of selected topics and figures in 20th and 21st century European philosophy. Repeatable for credit with consent of the instructor.
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 4 (Max 20)
+Enrollment data as of JUL 19, 2014 11:31
+ADVANCED SEMINAR IN ARCHITECTURE
+Small, focused, advanced discussion, workshop and/or design based courses on topics of recent research in architecture, delivered by RSA full time or visiting faculty. This seminar series is open to RSA undergraduate students junior-level and above, and RSA graduate students. Students from other departments may enroll in the course with instructor permission. ""See our website for more information: arch.rice.edu/courses"".
 CRN	Course	Title		Credits
-12580	PHIL 508 001	SEM CONTINENTAL PHILOSOPHY	3
-Faculty: Crowell, Steven G.	
-Meeting: 02:00PM - 04:59PM M TBA TBA	
+28454	ARCH 412 001	ADV SEMINAR IN ARCHITECTURE	3
+Faculty: Witte, Ronald R.	
+Meeting: 01:00PM - 03:29PM R TBA TBA	
 "
-2013 Spring_12581,2013 Spring,2013,Spring,12581,PHIL 524 001,SEMINAR IN HEGEL,"Faculty: Engelhardt, H T.",Meeting: 02:30PM - 05:29PM T TBA TBA,3,Enrolled: 8 (Max 10),"PHIL 524Philosophy Courses
+2013 Spring_27006,2013 Spring,2013,Spring,27006,ARCH 416 001,INNOV.DESIGN & CONST. INDUSTRY,"Faculty: Cannady, William T.; Thomsen, Charles B.",Meeting: 12:30PM - 01:59PM TR TBA TBA,3,Enrolled: 5 (Max 25),"ARCH 416Architecture Courses
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 8 (Max 10)
-Enrollment data as of JUL 13, 2014 15:14
-SEMINAR IN HEGEL
+Enrolled: 5 (Max 25)
+Enrollment data as of JUL 19, 2014 11:31
+INNOVATION IN DESIGN AND CONSTRUCTION INDUSTRY
+Process innovation in the design and construction industries is far too rare. Even with access to powerful tools such as CADD and the Internet, many opportunities for process improvement are overlooked and problems are repeatedly ignored. Within this course, cross-discipline project teams will use contemporary business tools to evaluate longstanding industry practices and develop ideas for process innovation. At the end of the semester, students will present innovation concepts to members of the Project Delivery Innovation Forum, a group of industry leaders that may select student ideas for further research on real projects. Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
 CRN	Course	Title		Credits
-12581	PHIL 524 001	SEMINAR IN HEGEL	3
-Faculty: Engelhardt, H T.	
-Meeting: 02:30PM - 05:29PM T TBA TBA	
+27006	ARCH 416 001	INNOV.DESIGN & CONST. INDUSTRY	3
+Faculty: Cannady, William T.; Thomsen, Charles B.	
+Meeting: 12:30PM - 01:59PM TR TBA TBA	
 "
-2013 Spring_12583,2013 Spring,2013,Spring,12583,PHIL 526 001,HISTORY OF ETHICS,"Faculty: Brody, Baruch A.",Meeting: 02:00PM - 04:59PM W TBA TBA,3,Enrolled: 4 (Max 10),"PHIL 526Philosophy Courses
+2013 Spring_20283,2013 Spring,2013,Spring,20283,ARCH 423 001,PROF&MGMT IN ARCH PRACTICE,"Faculty: Fleishacker, Alan L.; Furr, James E.",Meeting: 04:00PM - 05:15PM TR TBA TBA,3,Enrolled: 11 (Max 35),"ARCH 423Architecture Courses
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 4 (Max 10)
-Cross-listed with PHIL 326(12582)
-Total Cross-list Enrolled: 10 (Max 29)
-Enrollment data as of JUL 13, 2014 15:14
-HISTORY OF ETHICS
-Graduate version of PHIL 326. Special graduate student requirements include additional readings and the writing of a term research paper.
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 11 (Max 35)
+Enrollment data as of JUL 19, 2014 11:31
+Pre-requisite(s): ARCH 302
+PROFESSIONALISM AND MANAGEMENT IN ARCHITECTURAL PRACTICE
+An introductory survey of the characteristics of the delivery of architectural services by professional design organizations. Through readings and lectures, students become familiar with the social, technical, legal, ethical, and financial milieu of modern architecture practice.
 CRN	Course	Title		Credits
-12583	PHIL 526 001	HISTORY OF ETHICS	3
-Faculty: Brody, Baruch A.	
-Meeting: 02:00PM - 04:59PM W TBA TBA	
+20283	ARCH 423 001	PROF&MGMT IN ARCH PRACTICE	3
+Faculty: Fleishacker, Alan L.; Furr, James E.	
+Meeting: 04:00PM - 05:15PM TR TBA TBA	
 "
-2013 Spring_11102,2013 Spring,2013,Spring,11102,PHIL 598 001,ADVANCED INDEPENDENT READING,"Faculty: Sher, George",Meeting: TBA TBA,1 TO 6,Enrolled: 1 (Max 19),"PHIL 598Philosophy Courses
+2013 Spring_27363,2013 Spring,2013,Spring,27363,ARCH 442 001,WHOLE WORLDS,"Faculty: Turan, Fatma N.",Meeting: 01:00PM - 03:29PM R TBA TBA,3,Enrolled: 5 (Max 25),"ARCH 442Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 5 (Max 25)
+Enrollment data as of JUL 19, 2014 11:31
+WHOLE WORLDS
+The seminar aims to conceptualize and project on the idea of architectural world-making, i.e. constructing alternative worlds through architecture. During the last two decades, architectural world-making has mostly been speculated as a social (participation) or a systemic (infrastructure) phenomenon, judged on the basis of its inclusiveness and performance within larger contingencies. On the other hand, the question of disciplinary specificity has by and large been limited to self-referential attributes of exclusive singularity. As part of outlining new directions in relation to these questions, the seminar will speculate and project on an alternative framework of architectural world-making, which both aims multiplicity and singularity while projecting unconventional associations between the two. Through focusing on a particular lineage of architectural ideas, projects and texts, the seminar aims to instigate further interplay between critical thinking and speculative work for future architectures. Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
+CRN	Course	Title		Credits
+27363	ARCH 442 001	WHOLE WORLDS	3
+Faculty: Turan, Fatma N.	
+Meeting: 01:00PM - 03:29PM R TBA TBA	
+"
+2013 Spring_20286,2013 Spring,2013,Spring,20286,ARCH 461 001,SPECIAL PROJECTS,"Faculty: Hight, Charles C.",Meeting: TBA TBA,1 TO 9,Enrolled: 2 (Permission Required),"ARCH 461Architecture Courses
 Repeatable for Credit
 Session: Full Term
 Grade Mode: Standard Letter
-Enrolled: 1 (Max 19)
-Enrollment data as of JUL 13, 2014 15:14
-Restrictions:
-Must be enrolled in one of the following Level(s):
-Graduate
-Must be enrolled in one of the following Major(s):
-Philosophy
-ADVANCED INDEPENDENT READING
-Directed reading and research.
+Enrolled: 2 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:31
+Instructor permission required
+SPECIAL PROJECTS
+Independent research or design arranged in consultation with a faculty member. Subject to approval of faculty advisor and director.
 CRN	Course	Title		Credits
-11102	PHIL 598 001	ADVANCED INDEPENDENT READING	1 TO 6
-Faculty: Sher, George	
+20286	ARCH 461 001	SPECIAL PROJECTS	1 TO 9
+Faculty: Hight, Charles C.	
 Meeting: TBA TBA	
 "
-2013 Spring_10042,2013 Spring,2013,Spring,10042,PHIL 701 001,RESEARCH QUALIFYING & THESIS,"Faculty: Crowell, Steven G.",Meeting: TBA TBA,1 TO 15,Enrolled: 6 (Max 19),"PHIL 701Philosophy Courses
+2013 Spring_24799,2013 Spring,2013,Spring,24799,ARCH 480 001,INTRODUCTION TO BIM,"Faculty: Schaefer, Jacqueline N.",Meeting: 07:00PM - 09:30PM T TBA TBA,3,Enrolled: 17 (Max 25),"ARCH 480Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 17 (Max 25)
+Enrollment data as of JUL 19, 2014 11:31
+INTRODUCTION TO BUILDING INFORMATION MANAGEMENT
+This is an introductory course in the use of Building Information Management (BIM) software. The course will utilize ""Revit Architecture"" by Autodesk, which is now installed on the PC's in RAVL. Students will produce a complete drawing package including architectural, mechanical and structural drawings of a building they have previously designed in studio or a structure developed specifically for this exercise. Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
+CRN	Course	Title		Credits
+24799	ARCH 480 001	INTRODUCTION TO BIM	3
+Faculty: Schaefer, Jacqueline N.	
+Meeting: 07:00PM - 09:30PM T TBA TBA	
+"
+2013 Spring_27257,2013 Spring,2013,Spring,27257,ARCH 500 001,PRECEPTORSHIP PROGRAM,"Faculty: Casbarian, John J.",Meeting: TBA TBA,15,Enrolled: 16 (Permission Required),"ARCH 500Architecture Courses
 Repeatable for Credit
 Session: Full Term
 Grade Mode: Satisfactory/Unsatisfactory
-Enrolled: 6 (Max 19)
-Enrollment data as of JUL 13, 2014 15:14
-Restrictions:
-Must be enrolled in one of the following Level(s):
-Graduate
-Must be enrolled in one of the following Major(s):
-Philosophy
-READING AND RESEARCH FOR QUALIFYING EXAMINATION AND THESIS PROPOSAL
-Reading course in preparation for the comprehensive examination and thesis proposal defense.
+Enrolled: 16 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:31
+Instructor permission required
+PRECEPTORSHIP PROGRAM
+Full time internship for nine to twelve months under guidance of appointed preceptor. Required for all recipients of Rice B.A. degrees in pre-professional program of area majors who seek admission to graduate studies in Architecture.
 CRN	Course	Title		Credits
-10042	PHIL 701 001	RESEARCH QUALIFYING & THESIS	1 TO 15
-Faculty: Crowell, Steven G.	
+27257	ARCH 500 001	PRECEPTORSHIP PROGRAM	15
+Faculty: Casbarian, John J.	
 Meeting: TBA TBA	
 "
-2013 Spring_10043,2013 Spring,2013,Spring,10043,PHIL 800 001,RESEARCH AND THESIS,"Faculty: Crowell, Steven G.",Meeting: TBA TBA,1 TO 15,Enrolled: 10 (Max 50),"PHIL 800Philosophy Courses
+2013 Spring_20291,2013 Spring,2013,Spring,20291,ARCH 502 001,CORE DESIGN STUDIO II,"Faculty: Wamble, Mark S.",Meeting: 01:00PM - 05:59PM MWF TBA TBA,10,Enrolled: 13 (Max 30),"ARCH 502Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 13 (Max 30)
+Enrollment data as of JUL 19, 2014 11:31
+CORE DESIGN STUDIO II
+The second in a sequence of four studios that foregrounds the relationship between form, program, and technology.
+CRN	Course	Title		Credits
+20291	ARCH 502 001	CORE DESIGN STUDIO II	10
+Faculty: Wamble, Mark S.	
+Meeting: 01:00PM - 05:59PM MWF TBA TBA	
+"
+2013 Spring_20292,2013 Spring,2013,Spring,20292,ARCH 504 001,CORE DESIGN STUDIO IV,"Faculty: Geiser, Reto",Meeting: 01:00PM - 05:59PM MWF TBA TBA,10,Enrolled: 8 (Max 25),"ARCH 504Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 8 (Max 25)
+Enrollment data as of JUL 19, 2014 11:31
+CORE DESIGN STUDIO IV
+The fourth in a sequence of four studios that foregrounds the relationship between form, program, and technology.
+CRN	Course	Title		Credits
+20292	ARCH 504 001	CORE DESIGN STUDIO IV	10
+Faculty: Geiser, Reto	
+Meeting: 01:00PM - 05:59PM MWF TBA TBA	
+"
+2013 Spring_25895,2013 Spring,2013,Spring,25895,ARCH 504 002,CORE DESIGN STUDIO IV,"Faculty: Turan, Fatma N.",Meeting: 01:00PM - 05:59PM MWF TBA TBA,10,Enrolled: 8 (Max 30),"ARCH 504Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 8 (Max 30)
+Enrollment data as of JUL 19, 2014 11:31
+CORE DESIGN STUDIO IV
+The fourth in a sequence of four studios that foregrounds the relationship between form, program, and technology.
+CRN	Course	Title		Credits
+25895	ARCH 504 002	CORE DESIGN STUDIO IV	10
+Faculty: Turan, Fatma N.	
+Meeting: 01:00PM - 05:59PM MWF TBA TBA	
+"
+2013 Spring_25912,2013 Spring,2013,Spring,25912,ARCH 509 002,TECHNOLOGY II - THE SHELL,"Faculty: Spieler, Christof T.",Meeting: 04:00PM - 05:15PM TR RZR 123,3,Enrolled: 11 (Max 19),"ARCH 509Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available - Download Here
+Enrolled: 11 (Max 19)
+Enrollment data as of JUL 19, 2014 11:32
+TECHNOLOGY II - THE SHELL
+Recommended Prerequiste: Prior completion of Technology I.
+This course is the second of three required courses in the Architectural Technology sequence in the Rice of Architecture. The topics covered are the design of concrete structures and design of specialized structures including tilt wall, long span, and high-rise. Each structural type is explored in terms of the performance of the overall system, design of individual components, and relation of structure to other building subsystems such as foundation, roofing, enclosure, and interior. This course also addresses sustainability issues specific to structural systems including embodied energy, life cycle costs, and material re-use.
+CRN	Course	Title		Credits
+25912	ARCH 509 002	TECHNOLOGY II - THE SHELL	3
+Faculty: Spieler, Christof T.	
+Meeting: 04:00PM - 05:15PM TR RZR 123	
+"
+2013 Spring_26623,2013 Spring,2013,Spring,26623,ARCH 516 001,TECHNOLOGY IV -THE ENVIRONMENT,"Faculty: Redding, Stephen M.",Meeting: 04:00PM - 05:15PM TR TBA TBA,3,Enrolled: 11 (Max 10),"ARCH 516Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 11 (Max 10)
+Enrollment data as of JUL 19, 2014 11:32
+TECHNOLOGY IV -THE ENVIRONMENT
+This course addresses building environmental systems including power, water, and wastewater with an emphasis on air condition systems. Through multimedia presentations and fieldtrips, students are taught to analyze the thermal environment in a variety of building types and select equipment to meet these needs. Sustainability issues related to environmental systems such as energy conservational and life cycle costs are also addressed.
+CRN	Course	Title		Credits
+26623	ARCH 516 001	TECHNOLOGY IV -THE ENVIRONMENT	3
+Faculty: Redding, Stephen M.	
+Meeting: 04:00PM - 05:15PM TR TBA TBA	
+"
+2013 Spring_28238,2013 Spring,2013,Spring,28238,ARCH 523 002,SEMINAR IN ARCHITECTURE,"Faculty: Manning, Andrea C.",Meeting: 01:00PM - 03:29PM T TBA TBA,3,Enrolled: 9 (Max 25),"ARCH 523Architecture Courses
 Repeatable for Credit
 Session: Full Term
-Grade Mode: Satisfactory/Unsatisfactory
-Enrolled: 10 (Max 50)
-Enrollment data as of JUL 13, 2014 15:14
-Restrictions:
-Must be enrolled in one of the following Level(s):
-Graduate
-Must be enrolled in one of the following Major(s):
-Philosophy
-RESEARCH AND THESIS
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 9 (Max 25)
+Enrollment data as of JUL 19, 2014 11:32
+SEMINAR IN ARCHITECTURE
+Small, focused, discussion, workshop and/or design based courses on topics of recent research in architecture, delivered by RSA full time or visiting faculty. This seminar series is open to RSA undergraduate and graduate students.Students from other departments may enroll in the course with instructor permission. ""See our website for more information: arch.rice.edu/courses"". Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
 CRN	Course	Title		Credits
-10043	PHIL 800 001	RESEARCH AND THESIS	1 TO 15
-Faculty: Crowell, Steven G.	
-Meeting: TBA TBA	
+28238	ARCH 523 002	SEMINAR IN ARCHITECTURE	3
+Faculty: Manning, Andrea C.	
+Meeting: 01:00PM - 03:29PM T TBA TBA	
+"
+2013 Spring_28384,2013 Spring,2013,Spring,28384,ARCH 523 007,SEMINAR IN ARCHITECTURE,"Faculty: Hamadeh, Shirine T.",Meeting: 01:30PM - 04:30PM W HRG 126,3,Enrolled: 0 (Max 15),"ARCH 523Architecture Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 15)
+Cross-listed with HART 515(28383)
+Total Cross-list Enrolled: 3 (Max 15)
+Enrollment data as of JUL 19, 2014 11:32
+SEMINAR IN ARCHITECTURE
+Small, focused, discussion, workshop and/or design based courses on topics of recent research in architecture, delivered by RSA full time or visiting faculty. This seminar series is open to RSA undergraduate and graduate students.Students from other departments may enroll in the course with instructor permission. ""See our website for more information: arch.rice.edu/courses"". Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
+CRN	Course	Title		Credits
+28384	ARCH 523 007	SEMINAR IN ARCHITECTURE	3
+Faculty: Hamadeh, Shirine T.	
+Meeting: 01:30PM - 04:30PM W HRG 126	
+"
+2013 Spring_27000,2013 Spring,2013,Spring,27000,ARCH 571 001,JAPANESE ART & ARCHITECTURE,"Faculty: Nakamori, Yasufumi",Meeting: 06:00PM - 09:00PM T HUM 118,3,Enrolled: 2 (Max 5),"ARCH 571Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 2 (Max 5)
+Cross-listed with HART 579(26999)
+Total Cross-list Enrolled: 2 (Max 5)
+Enrollment data as of JUL 19, 2014 11:32
+POST-1945 JAPANESE ART & ARCHITECTURE
+This course investigates post-1945 Japanese art and architecture, contextualized as part of the nation's modern history, and with a particular focus on the socially and politically turbulent decades of the 1950s and 60s. Using artistic collectivism as a methodology, the course examines a wide range of collaborations in visual art and architecture, as seen in exhibitions, performances, and publications. For each lecture, Graduate Students will be assigned additional readings. They will write an annotated bibliography of all these readings to be turned in at the end of the semester. We will meet for an additional every two or three weeks to discuss interpretive and methodological problems and ideas associated with the readings. Graduate Students will be expected to complete all the requirements of the class in addition to writing a substantial research paper due at the end of the semester.
+CRN	Course	Title		Credits
+27000	ARCH 571 001	JAPANESE ART & ARCHITECTURE	3
+Faculty: Nakamori, Yasufumi	
+Meeting: 06:00PM - 09:00PM T HUM 118	
+"
+2013 Spring_20297,2013 Spring,2013,Spring,20297,ARCH 602 001,ARCHITECTURAL PROBLEMS,"Faculty: Grenader, Nonya S.; Samuels, Danny M.",Meeting: 01:00PM - 05:59PM MWF TBA TBA,10,Enrolled: 8 (Max 19),"ARCH 602Architecture Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available - Download Here
+Enrolled: 8 (Max 19)
+Enrollment data as of JUL 19, 2014 11:32
+ARCHITECTURAL PROBLEMS
+Emphasis on abstract thought and design capabilities relevant to systematic processes of designing specific buildings and facilities.
+CRN	Course	Title		Credits
+20297	ARCH 602 001	ARCHITECTURAL PROBLEMS	10
+Faculty: Grenader, Nonya S.; Samuels, Danny M.	
+Meeting: 01:00PM - 05:59PM MWF TBA TBA	
+"
+2013 Spring_20298,2013 Spring,2013,Spring,20298,ARCH 602 002,ARCHITECTURAL PROBLEMS,"Faculty: Pope, Albert H.",Meeting: 01:00PM - 05:59PM MWF TBA TBA,10,Enrolled: 8 (Max 19),"ARCH 602Architecture Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 8 (Max 19)
+Enrollment data as of JUL 19, 2014 11:32
+ARCHITECTURAL PROBLEMS
+Emphasis on abstract thought and design capabilities relevant to systematic processes of designing specific buildings and facilities.
+CRN	Course	Title		Credits
+20298	ARCH 602 002	ARCHITECTURAL PROBLEMS	10
+Faculty: Pope, Albert H.	
+Meeting: 01:00PM - 05:59PM MWF TBA TBA	
+"
+2013 Spring_20299,2013 Spring,2013,Spring,20299,ARCH 602 003,ARCHITECTURAL PROBLEMS,"Faculty: Witte, Ronald R.",Meeting: 01:00PM - 05:59PM MWF TBA TBA,10,Enrolled: 8 (Max 19),"ARCH 602Architecture Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 8 (Max 19)
+Enrollment data as of JUL 19, 2014 11:32
+ARCHITECTURAL PROBLEMS
+Emphasis on abstract thought and design capabilities relevant to systematic processes of designing specific buildings and facilities.
+CRN	Course	Title		Credits
+20299	ARCH 602 003	ARCHITECTURAL PROBLEMS	10
+Faculty: Witte, Ronald R.	
+Meeting: 01:00PM - 05:59PM MWF TBA TBA	
+"
+2013 Spring_28457,2013 Spring,2013,Spring,28457,ARCH 602 004,ARCHITECTURAL PROBLEMS,"Faculty: Manning, Andrea C.; Johnston, Sharon L.; Lee, Mark W.",Meeting: 01:00PM - 05:59PM MWF TBA TBA,10,Enrolled: 9 (Max 19),"ARCH 602Architecture Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 9 (Max 19)
+Enrollment data as of JUL 19, 2014 11:32
+ARCHITECTURAL PROBLEMS
+Emphasis on abstract thought and design capabilities relevant to systematic processes of designing specific buildings and facilities.
+CRN	Course	Title		Credits
+28457	ARCH 602 004	ARCHITECTURAL PROBLEMS	10
+Faculty: Manning, Andrea C.; Johnston, Sharon L.; Lee, Mark W.	
+Meeting: 01:00PM - 05:59PM MWF TBA TBA	
+"
+2013 Spring_26789,2013 Spring,2013,Spring,26789,ARCH 605 001,NON-ARCHITECTS INSTRUCTION,"Faculty: Casbarian, John J.; Alford, Grant",Meeting: 07:00PM - 09:59PM M TBA TBA,3,Enrolled: 6 (Permission Required),"ARCH 605Architecture Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 6 (Permission Required)
+Enrollment data as of JUL 19, 2014 11:32
+Instructor permission required
+ARCHITECTURE FOR NON-ARCHITECTS INSTRUCTION
+For selected graduate students only, this course will provide the opportunity for hands-on teaching experience by involvement in syllabus design and preparation of lectures, discussions, design exercises and other teaching methods, under the supervision of the course instructors. Enrollment limited to 6 and by permission only.
+CRN	Course	Title		Credits
+26789	ARCH 605 001	NON-ARCHITECTS INSTRUCTION	3
+Faculty: Casbarian, John J.; Alford, Grant	
+Meeting: 07:00PM - 09:59PM M TBA TBA	
+"
+2013 Spring_26840,2013 Spring,2013,Spring,26840,ARCH 610 001,"HIST, THEORY & STRUCTR: PARIS","Faculty: Casbarian, John J.",Meeting: 01:00PM - 04:59PM TR TBA TBA,6,Enrolled: 9 (Max 10),"ARCH 610Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 9 (Max 10)
+Enrollment data as of JUL 19, 2014 11:32
+BUILDING WORKSHOP: THEATER RENOVATION/PARIS PROGRAM
+Special seminars, lectures, and site visits relevant to history, urban theory, and structure of Paris and other European centers.
+CRN	Course	Title		Credits
+26840	ARCH 610 001	HIST, THEORY & STRUCTR: PARIS	6
+Faculty: Casbarian, John J.	
+Meeting: 01:00PM - 04:59PM TR TBA TBA	
+"
+2013 Spring_28243,2013 Spring,2013,Spring,28243,ARCH 612 001,ADV SEMINAR IN ARCHITECTURE,"Faculty: Witte, Ronald R.",Meeting: 01:00PM - 03:29PM R TBA TBA,3,Enrolled: 4 (Max 25),"ARCH 612Architecture Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 4 (Max 25)
+Enrollment data as of JUL 19, 2014 11:32
+ADVANCED SEMINAR IN ARCHITECTURE
+Small, focused, advanced discussion, workshop and/or design based courses on topics of recent research in architecture, delivered by RSA full time or visiting faculty. This seminar series is open to RSA undergraduate students junior-level and above, and RSA graduate students. Students from other departments may enroll in the course with instructor permission. ""See our website for more information: arch.rice.edu/courses"". Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
+CRN	Course	Title		Credits
+28243	ARCH 612 001	ADV SEMINAR IN ARCHITECTURE	3
+Faculty: Witte, Ronald R.	
+Meeting: 01:00PM - 03:29PM R TBA TBA	
+"
+2013 Spring_28245,2013 Spring,2013,Spring,28245,ARCH 612 003,ADV SEMINAR IN ARCHITECTURE,"Faculty: Geiser, Reto",Meeting: 07:00PM - 09:29PM M TBA TBA,3,Enrolled: 7 (Max 25),"ARCH 612Architecture Courses
+Repeatable for Credit
+Session: Full Term
+Grade Mode: Standard Letter
+Course Syllabus Available to Rice students via ESTHER
+Enrolled: 7 (Max 25)
+Enrollment data as of JUL 19, 2014 11:32
+ADVANCED SEMINAR IN ARCHITECTURE
+Small, focused, advanced discussion, workshop and/or design based courses on topics of recent research in architecture, delivered by RSA full time or visiting faculty. This seminar series is open to RSA undergraduate students junior-level and above, and RSA graduate students. Students from other departments may enroll in the course with instructor permission. ""See our website for more information: arch.rice.edu/courses"". Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
+CRN	Course	Title		Credits
+28245	ARCH 612 003	ADV SEMINAR IN ARCHITECTURE	3
+Faculty: Geiser, Reto	
+Meeting: 07:00PM - 09:29PM M TBA TBA	
+"
+2013 Spring_27007,2013 Spring,2013,Spring,27007,ARCH 616 001,INNOV.DESIGN & CONST. INDUSTRY,"Faculty: Cannady, William T.; Thomsen, Charles B.",Meeting: 12:30PM - 01:59PM TR TBA TBA,3,Enrolled: 0 (Max 25),"ARCH 616Architecture Courses
+Session: Full Term
+Grade Mode: Standard Letter
+Enrolled: 0 (Max 25)
+Cross-listed with MGMT 716(27008)
+Total Cross-list Enrolled: 1 (Max 25)
+Enrollment data as of JUL 19, 2014 11:32
+INNOVATION IN DESIGN AND CONSTRUCTION INDUSTRY
+Process innovation in the design and construction industries is far too rare. Even with access to powerful tools such as CADD and the Internet, many opportunities for process improvement are overlooked and problems are repeatedly ignored. Within this course, cross-discipline project teams will use contemporary business tools to evaluate long- standing industry practices and develop ideas for process innovation. At the end of the semester, students will present innovation concepts to members of the Project Delivery Innovation Forum, a group of industry leaders that may select student ideas for further research on real projects. Space is limited and registration does not guarantee a space in this course. The final course roster is formulated on the first day class by the individual instructor.
+CRN	Course	Title		Credits
+27007	ARCH 616 001	INNOV.DESIGN & CONST. INDUSTRY	3
+Faculty: Cannady, William T.; Thomsen, Charles B.	
+Meeting: 12:30PM - 01:59PM TR TBA TBA	
 "
