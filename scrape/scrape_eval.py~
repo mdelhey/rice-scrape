@@ -9,8 +9,8 @@ import pandas as pd
 sys.path.append('scrape')
 from helpers import login_to_evaluations
 
-UserID = ''
-PIN    = ''
+UserID = 'S01149891'
+PIN    = 'aaa12051992'
 
 project_dir = '/Users/mdelhey/rice-scrape/'
 YEAR_SCRAPE = '2013'
